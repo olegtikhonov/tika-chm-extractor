@@ -1,0 +1,1510 @@
+2013-05-29 09:02:52.978 [ INFO] Going to extract=.NETFramework40BlendSDK
+2013-05-29 09:03:02.372 [ INFO] Going to extract=3D8F0F54C2CEF6D7EB45180C37B703261767C923_Open_Mobile_Client_Help
+2013-05-29 09:03:02.508 [ INFO] Going to extract=7-zip
+2013-05-29 09:03:02.732 [ INFO] Going to extract=aclui
+2013-05-29 09:03:02.840 [ INFO] Going to extract=americano_remixx
+2013-05-29 09:03:02.842 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\americano_remixx.wav won't be processed
+2013-05-29 09:03:02.842 [ INFO] Going to extract=galaxy_s4
+2013-05-29 09:03:02.842 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\galaxy_s4.wav won't be processed
+2013-05-29 09:03:02.842 [ INFO] Going to extract=house_of_the_rising
+2013-05-29 09:03:02.845 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\house_of_the_rising.wav won't be processed
+2013-05-29 09:03:02.845 [ INFO] Going to extract=natures_call
+2013-05-29 09:03:02.845 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\natures_call.wav won't be processed
+2013-05-29 09:03:02.845 [ INFO] Going to extract=old_telephone
+2013-05-29 09:03:02.847 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\old_telephone.wav won't be processed
+2013-05-29 09:03:02.847 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-29 09:03:02.960 [ INFO] Going to extract=python274
+2013-05-29 09:03:09.266 [ INFO] Going to extract=st_oi
+2013-05-29 09:03:09.347 [ INFO] Going to extract=st_oi_ja
+2013-05-29 09:03:09.432 [ INFO] Going to extract=st_oi_ko
+2013-05-29 09:03:09.527 [ INFO] Going to extract=titanic
+2013-05-29 09:03:09.527 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\titanic.wav won't be processed
+2013-05-29 09:03:09.527 [ INFO] Going to extract=TPOG
+2013-05-29 09:04:37.929 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5C7-zip.chm/outputFormat=json
+2013-05-29 09:04:38.122 [ INFO] Going to extract=7-zip
+2013-05-29 09:04:38.127 [ERROR] java.io.FileNotFoundException: C:\Users\otikhono\Desktop\chm\7-zip.chm\outputFormat=json (The system cannot find the path specified)
+2013-05-29 09:04:46.235 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5C7-zip.chm
+2013-05-29 09:04:46.238 [ INFO] Going to extract=7-zip
+2013-05-29 09:04:46.301 [ WARN] Folder for 7-zip exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 09:09:09.773 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5C7-zip.chm
+2013-05-29 09:09:09.980 [ INFO] Going to extract=7-zip
+2013-05-29 09:09:10.025 [ WARN] Folder for 7-zip exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 09:39:43.593 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 09:39:43.593 [ INFO] Going to extract=python274
+2013-05-29 09:39:43.679 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 09:40:13.263 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 09:40:13.264 [ INFO] Going to extract=python274
+2013-05-29 09:40:19.947 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 09:40:19.947 [ INFO] Going to extract=python274
+2013-05-29 09:40:20.023 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 09:40:58.583 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 09:40:58.784 [ INFO] Going to extract=python274
+2013-05-29 09:47:35.795 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 09:47:35.991 [ INFO] Going to extract=python274
+2013-05-29 09:47:36.143 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 09:47:52.082 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 09:47:52.082 [ INFO] Going to extract=python274
+2013-05-29 09:48:29.388 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 09:48:29.605 [ INFO] Going to extract=python274
+2013-05-29 09:48:29.695 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 09:49:52.365 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 09:49:52.549 [ INFO] Going to extract=python274
+2013-05-29 09:50:07.375 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 09:50:07.375 [ INFO] Going to extract=python274
+2013-05-29 09:50:07.444 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 09:50:07.444 [ERROR] java.lang.NullPointerException
+2013-05-29 09:50:24.938 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 09:50:24.938 [ INFO] Going to extract=python274
+2013-05-29 09:50:25.039 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 09:50:25.039 [ERROR] java.lang.NullPointerException
+2013-05-29 09:51:12.272 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 09:51:12.272 [ INFO] Going to extract=python274
+2013-05-29 09:51:44.711 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 09:51:44.925 [ INFO] Going to extract=python274
+2013-05-29 09:52:00.889 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 09:52:00.892 [ INFO] Going to extract=python274
+2013-05-29 09:52:00.945 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 09:52:00.945 [ERROR] java.lang.NullPointerException
+2013-05-29 09:52:29.804 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 09:52:30.025 [ INFO] Going to extract=python274
+2013-05-29 09:53:00.503 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 09:53:00.503 [ INFO] Going to extract=python274
+2013-05-29 09:53:00.569 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 09:53:00.569 [ERROR] java.lang.NullPointerException
+2013-05-29 09:53:43.909 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 09:53:43.909 [ INFO] Going to extract=python274
+2013-05-29 09:54:03.741 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 09:54:17.900 [ERROR] java.lang.NullPointerException
+2013-05-29 09:54:43.729 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 09:54:43.945 [ INFO] Going to extract=python274
+2013-05-29 09:54:54.534 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 09:57:50.876 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 09:57:51.089 [ INFO] Going to extract=python274
+2013-05-29 09:57:51.182 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 09:58:33.855 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 09:58:33.855 [ INFO] Going to extract=python274
+2013-05-29 09:58:51.884 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 09:58:51.884 [ INFO] Going to extract=python274
+2013-05-29 09:59:30.700 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 09:59:30.914 [ INFO] Going to extract=python274
+2013-05-29 10:00:26.952 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 10:00:26.952 [ INFO] Going to extract=python274
+2013-05-29 10:02:11.965 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 10:02:11.965 [ INFO] Going to extract=python274
+2013-05-29 10:02:12.063 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 10:02:30.753 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 10:02:30.753 [ INFO] Going to extract=python274
+2013-05-29 10:02:30.814 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 10:04:11.914 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 10:04:12.115 [ INFO] Going to extract=python274
+2013-05-29 10:04:12.205 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 10:04:17.254 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 10:04:17.255 [ INFO] Going to extract=python274
+2013-05-29 10:04:17.305 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 10:04:55.877 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 10:04:55.877 [ INFO] Going to extract=python274
+2013-05-29 10:05:12.833 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 10:05:12.836 [ INFO] Going to extract=python274
+2013-05-29 10:08:54.483 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 10:08:54.483 [ INFO] Going to extract=python274
+2013-05-29 10:09:43.369 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 10:09:43.371 [ INFO] Going to extract=python274
+2013-05-29 10:52:21.626 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 10:52:21.626 [ INFO] Going to extract=python274
+2013-05-29 10:52:21.687 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 10:52:27.326 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 10:52:27.326 [ INFO] Going to extract=python274
+2013-05-29 10:52:27.395 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 10:52:33.620 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 10:52:33.622 [ INFO] Going to extract=python274
+2013-05-29 10:52:33.696 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 10:53:05.972 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 10:53:05.974 [ INFO] Going to extract=python274
+2013-05-29 10:53:06.070 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 10:53:35.796 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 10:53:35.797 [ INFO] Going to extract=python274
+2013-05-29 10:53:35.882 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 10:54:39.854 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 10:54:39.857 [ INFO] Going to extract=python274
+2013-05-29 10:54:39.946 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 10:55:29.839 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 10:55:29.839 [ INFO] Going to extract=python274
+2013-05-29 10:56:09.851 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 10:56:09.853 [ INFO] Going to extract=python274
+2013-05-29 10:56:09.912 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 10:57:03.545 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 10:57:03.545 [ INFO] Going to extract=python274
+2013-05-29 10:58:10.964 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 10:58:10.966 [ INFO] Going to extract=python274
+2013-05-29 10:58:29.011 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 10:58:29.011 [ INFO] Going to extract=python274
+2013-05-29 10:59:20.592 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 10:59:20.592 [ INFO] Going to extract=python274
+2013-05-29 10:59:20.690 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:00:18.941 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 11:00:18.943 [ INFO] Going to extract=python274
+2013-05-29 11:01:05.417 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 11:01:05.417 [ INFO] Going to extract=python274
+2013-05-29 11:01:05.478 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:01:18.895 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 11:01:18.895 [ INFO] Going to extract=python274
+2013-05-29 11:01:18.956 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:01:46.933 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 11:01:46.933 [ INFO] Going to extract=python274
+2013-05-29 11:01:47.001 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:02:10.185 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 11:02:10.188 [ INFO] Going to extract=python274
+2013-05-29 11:02:10.254 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:03:20.383 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 11:03:20.386 [ INFO] Going to extract=python274
+2013-05-29 11:03:20.477 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:03:46.997 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 11:03:46.997 [ INFO] Going to extract=python274
+2013-05-29 11:03:47.079 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:04:21.091 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 11:04:21.091 [ INFO] Going to extract=python274
+2013-05-29 11:05:06.575 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 11:05:06.575 [ INFO] Going to extract=python274
+2013-05-29 11:05:06.646 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:05:14.846 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 11:05:14.847 [ INFO] Going to extract=python274
+2013-05-29 11:05:14.918 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:06:15.605 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 11:06:15.607 [ INFO] Going to extract=python274
+2013-05-29 11:06:15.705 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:06:35.354 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 11:06:35.354 [ INFO] Going to extract=python274
+2013-05-29 11:06:58.813 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-29 11:06:58.813 [ INFO] Going to extract=python274
+2013-05-29 11:06:58.869 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:43:28.590 [ INFO] REQ_URL=/favicon.ico
+2013-05-29 11:43:28.607 [ INFO] REQ_URL=/favicon.ico
+2013-05-29 11:44:01.233 [ INFO] REQ_URL=//extract/directory/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm
+2013-05-29 11:44:01.235 [ INFO] Going to extract=.NETFramework40BlendSDK
+2013-05-29 11:44:10.760 [ INFO] Going to extract=3D8F0F54C2CEF6D7EB45180C37B703261767C923_Open_Mobile_Client_Help
+2013-05-29 11:44:10.856 [ INFO] Going to extract=7-zip
+2013-05-29 11:44:11.018 [ INFO] Going to extract=aclui
+2013-05-29 11:44:11.263 [ INFO] Going to extract=americano_remixx
+2013-05-29 11:44:11.265 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\americano_remixx.wav won't be processed
+2013-05-29 11:44:11.265 [ INFO] Going to extract=galaxy_s4
+2013-05-29 11:44:11.268 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\galaxy_s4.wav won't be processed
+2013-05-29 11:44:11.268 [ INFO] Going to extract=house_of_the_rising
+2013-05-29 11:44:11.270 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\house_of_the_rising.wav won't be processed
+2013-05-29 11:44:11.270 [ INFO] Going to extract=natures_call
+2013-05-29 11:44:11.270 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\natures_call.wav won't be processed
+2013-05-29 11:44:11.270 [ INFO] Going to extract=old_telephone
+2013-05-29 11:44:11.270 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\old_telephone.wav won't be processed
+2013-05-29 11:44:11.273 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-29 11:44:11.388 [ INFO] Going to extract=python274
+2013-05-29 11:44:11.428 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:44:11.428 [ INFO] Going to extract=st_oi
+2013-05-29 11:44:11.510 [ INFO] Going to extract=st_oi_ja
+2013-05-29 11:44:11.603 [ INFO] Going to extract=st_oi_ko
+2013-05-29 11:44:11.705 [ INFO] Going to extract=titanic
+2013-05-29 11:44:11.705 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\titanic.wav won't be processed
+2013-05-29 11:44:11.708 [ INFO] Going to extract=TPOG
+2013-05-29 11:46:33.587 [ INFO] REQ_URL=//extract/directory/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm
+2013-05-29 11:46:33.587 [ INFO] Going to extract=.NETFramework40BlendSDK
+2013-05-29 11:46:33.640 [ WARN] Folder for .NETFramework40BlendSDK exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:46:33.640 [ INFO] Going to extract=3D8F0F54C2CEF6D7EB45180C37B703261767C923_Open_Mobile_Client_Help
+2013-05-29 11:46:33.643 [ WARN] Folder for 3D8F0F54C2CEF6D7EB45180C37B703261767C923_Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:46:33.643 [ INFO] Going to extract=7-zip
+2013-05-29 11:46:33.645 [ WARN] Folder for 7-zip exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:46:33.645 [ INFO] Going to extract=aclui
+2013-05-29 11:46:33.648 [ WARN] Folder for aclui exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:46:33.648 [ INFO] Going to extract=americano_remixx
+2013-05-29 11:46:33.650 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\americano_remixx.wav won't be processed
+2013-05-29 11:46:33.650 [ INFO] Going to extract=galaxy_s4
+2013-05-29 11:46:33.650 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\galaxy_s4.wav won't be processed
+2013-05-29 11:46:33.650 [ INFO] Going to extract=house_of_the_rising
+2013-05-29 11:46:33.653 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\house_of_the_rising.wav won't be processed
+2013-05-29 11:46:33.653 [ INFO] Going to extract=natures_call
+2013-05-29 11:46:33.653 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\natures_call.wav won't be processed
+2013-05-29 11:46:33.653 [ INFO] Going to extract=old_telephone
+2013-05-29 11:46:33.655 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\old_telephone.wav won't be processed
+2013-05-29 11:46:33.655 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-29 11:46:33.658 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:46:33.658 [ INFO] Going to extract=python274
+2013-05-29 11:46:33.695 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:46:33.695 [ INFO] Going to extract=st_oi
+2013-05-29 11:46:33.700 [ WARN] Folder for st_oi exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:46:33.700 [ INFO] Going to extract=st_oi_ja
+2013-05-29 11:46:33.700 [ WARN] Folder for st_oi_ja exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:46:33.703 [ INFO] Going to extract=st_oi_ko
+2013-05-29 11:46:33.710 [ WARN] Folder for st_oi_ko exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:46:33.710 [ INFO] Going to extract=titanic
+2013-05-29 11:46:33.710 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\titanic.wav won't be processed
+2013-05-29 11:46:33.710 [ INFO] Going to extract=TPOG
+2013-05-29 11:46:33.713 [ WARN] Folder for TPOG exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:52:16.544 [ INFO] REQ_URL=//extract/directory/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm
+2013-05-29 11:52:16.544 [ INFO] Going to extract=.NETFramework40BlendSDK
+2013-05-29 11:52:26.495 [ INFO] Going to extract=3D8F0F54C2CEF6D7EB45180C37B703261767C923_Open_Mobile_Client_Help
+2013-05-29 11:52:26.589 [ INFO] Going to extract=7-zip
+2013-05-29 11:52:26.763 [ INFO] Going to extract=aclui
+2013-05-29 11:52:26.876 [ INFO] Going to extract=americano_remixx
+2013-05-29 11:52:26.878 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\americano_remixx.wav won't be processed
+2013-05-29 11:52:26.878 [ INFO] Going to extract=galaxy_s4
+2013-05-29 11:52:26.878 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\galaxy_s4.wav won't be processed
+2013-05-29 11:52:26.878 [ INFO] Going to extract=house_of_the_rising
+2013-05-29 11:52:26.881 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\house_of_the_rising.wav won't be processed
+2013-05-29 11:52:26.881 [ INFO] Going to extract=natures_call
+2013-05-29 11:52:26.881 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\natures_call.wav won't be processed
+2013-05-29 11:52:26.881 [ INFO] Going to extract=old_telephone
+2013-05-29 11:52:26.881 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\old_telephone.wav won't be processed
+2013-05-29 11:52:26.881 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-29 11:52:27.111 [ INFO] Going to extract=python274
+2013-05-29 11:52:33.313 [ INFO] Going to extract=st_oi
+2013-05-29 11:52:33.409 [ INFO] Going to extract=st_oi_ja
+2013-05-29 11:52:33.596 [ INFO] Going to extract=st_oi_ko
+2013-05-29 11:52:33.696 [ INFO] Going to extract=titanic
+2013-05-29 11:52:33.696 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\titanic.wav won't be processed
+2013-05-29 11:52:33.696 [ INFO] Going to extract=TPOG
+2013-05-29 11:52:58.902 [ INFO] REQ_URL=//extract/directory/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm
+2013-05-29 11:52:58.904 [ INFO] Going to extract=.NETFramework40BlendSDK
+2013-05-29 11:52:58.963 [ WARN] Folder for .NETFramework40BlendSDK exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:52:58.963 [ INFO] Going to extract=3D8F0F54C2CEF6D7EB45180C37B703261767C923_Open_Mobile_Client_Help
+2013-05-29 11:52:58.965 [ WARN] Folder for 3D8F0F54C2CEF6D7EB45180C37B703261767C923_Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:52:58.965 [ INFO] Going to extract=7-zip
+2013-05-29 11:52:58.970 [ WARN] Folder for 7-zip exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:52:58.970 [ INFO] Going to extract=aclui
+2013-05-29 11:52:58.973 [ WARN] Folder for aclui exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:52:58.973 [ INFO] Going to extract=americano_remixx
+2013-05-29 11:52:58.973 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\americano_remixx.wav won't be processed
+2013-05-29 11:52:58.973 [ INFO] Going to extract=galaxy_s4
+2013-05-29 11:52:58.975 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\galaxy_s4.wav won't be processed
+2013-05-29 11:52:58.975 [ INFO] Going to extract=house_of_the_rising
+2013-05-29 11:52:58.975 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\house_of_the_rising.wav won't be processed
+2013-05-29 11:52:58.978 [ INFO] Going to extract=natures_call
+2013-05-29 11:52:58.978 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\natures_call.wav won't be processed
+2013-05-29 11:52:58.978 [ INFO] Going to extract=old_telephone
+2013-05-29 11:52:58.978 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\old_telephone.wav won't be processed
+2013-05-29 11:52:58.980 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-29 11:52:58.983 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:52:58.983 [ INFO] Going to extract=python274
+2013-05-29 11:52:59.028 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:52:59.028 [ INFO] Going to extract=st_oi
+2013-05-29 11:52:59.030 [ WARN] Folder for st_oi exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:52:59.030 [ INFO] Going to extract=st_oi_ja
+2013-05-29 11:52:59.033 [ WARN] Folder for st_oi_ja exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:52:59.033 [ INFO] Going to extract=st_oi_ko
+2013-05-29 11:52:59.040 [ WARN] Folder for st_oi_ko exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:52:59.040 [ INFO] Going to extract=titanic
+2013-05-29 11:52:59.043 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\titanic.wav won't be processed
+2013-05-29 11:52:59.043 [ INFO] Going to extract=TPOG
+2013-05-29 11:52:59.043 [ WARN] Folder for TPOG exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:53:03.292 [ INFO] REQ_URL=//extract/directory/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm
+2013-05-29 11:53:03.294 [ INFO] Going to extract=.NETFramework40BlendSDK
+2013-05-29 11:53:03.340 [ WARN] Folder for .NETFramework40BlendSDK exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:53:03.343 [ INFO] Going to extract=3D8F0F54C2CEF6D7EB45180C37B703261767C923_Open_Mobile_Client_Help
+2013-05-29 11:53:03.345 [ WARN] Folder for 3D8F0F54C2CEF6D7EB45180C37B703261767C923_Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:53:03.345 [ INFO] Going to extract=7-zip
+2013-05-29 11:53:03.345 [ WARN] Folder for 7-zip exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:53:03.348 [ INFO] Going to extract=aclui
+2013-05-29 11:53:03.348 [ WARN] Folder for aclui exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:53:03.348 [ INFO] Going to extract=americano_remixx
+2013-05-29 11:53:03.350 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\americano_remixx.wav won't be processed
+2013-05-29 11:53:03.350 [ INFO] Going to extract=galaxy_s4
+2013-05-29 11:53:03.350 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\galaxy_s4.wav won't be processed
+2013-05-29 11:53:03.350 [ INFO] Going to extract=house_of_the_rising
+2013-05-29 11:53:03.350 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\house_of_the_rising.wav won't be processed
+2013-05-29 11:53:03.350 [ INFO] Going to extract=natures_call
+2013-05-29 11:53:03.353 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\natures_call.wav won't be processed
+2013-05-29 11:53:03.353 [ INFO] Going to extract=old_telephone
+2013-05-29 11:53:03.353 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\old_telephone.wav won't be processed
+2013-05-29 11:53:03.353 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-29 11:53:03.355 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:53:03.355 [ INFO] Going to extract=python274
+2013-05-29 11:53:03.393 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:53:03.393 [ INFO] Going to extract=st_oi
+2013-05-29 11:53:03.395 [ WARN] Folder for st_oi exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:53:03.395 [ INFO] Going to extract=st_oi_ja
+2013-05-29 11:53:03.398 [ WARN] Folder for st_oi_ja exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:53:03.398 [ INFO] Going to extract=st_oi_ko
+2013-05-29 11:53:03.405 [ WARN] Folder for st_oi_ko exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 11:53:03.405 [ INFO] Going to extract=titanic
+2013-05-29 11:53:03.408 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\titanic.wav won't be processed
+2013-05-29 11:53:03.408 [ INFO] Going to extract=TPOG
+2013-05-29 11:53:03.408 [ WARN] Folder for TPOG exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 12:43:52.392 [ INFO] REQ_URL=//extract/directory/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm
+2013-05-29 12:43:52.395 [ INFO] Going to extract=.NETFramework40BlendSDK
+2013-05-29 12:45:31.722 [ INFO] REQ_URL=//extract/directory/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm
+2013-05-29 12:45:31.722 [ INFO] Going to extract=.NETFramework40BlendSDK
+2013-05-29 12:47:21.995 [ INFO] Going to extract=3D8F0F54C2CEF6D7EB45180C37B703261767C923_Open_Mobile_Client_Help
+2013-05-29 12:47:24.246 [ERROR] java.io.FileNotFoundException: extracted_files\3D8F0F54C2CEF6D7EB45180C37B703261767C923_Open_Mobile_Client_Help (Access is denied)
+2013-05-29 12:47:24.246 [ INFO] Going to extract=7-zip
+2013-05-29 12:48:01.030 [ INFO] REQ_URL=//extract/directory/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm
+2013-05-29 12:48:01.032 [ INFO] Going to extract=.NETFramework40BlendSDK
+2013-05-29 12:48:01.106 [ WARN] Folder for .NETFramework40BlendSDK exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 12:48:01.131 [ INFO] Going to extract=3D8F0F54C2CEF6D7EB45180C37B703261767C923_Open_Mobile_Client_Help
+2013-05-29 12:48:01.133 [ WARN] Folder for 3D8F0F54C2CEF6D7EB45180C37B703261767C923_Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 12:48:01.136 [ INFO] Going to extract=7-zip
+2013-05-29 12:48:01.138 [ WARN] Folder for 7-zip exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-29 12:48:01.141 [ INFO] Going to extract=aclui
+2013-05-29 12:48:01.478 [ INFO] Going to extract=americano_remixx
+2013-05-29 12:48:01.481 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\americano_remixx.wav won't be processed
+2013-05-29 12:48:01.483 [ INFO] Going to extract=galaxy_s4
+2013-05-29 12:48:01.483 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\galaxy_s4.wav won't be processed
+2013-05-29 12:48:01.486 [ INFO] Going to extract=house_of_the_rising
+2013-05-29 12:48:01.486 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\house_of_the_rising.wav won't be processed
+2013-05-29 12:48:01.486 [ INFO] Going to extract=natures_call
+2013-05-29 12:48:01.488 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\natures_call.wav won't be processed
+2013-05-29 12:48:01.488 [ INFO] Going to extract=old_telephone
+2013-05-29 12:48:01.491 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\old_telephone.wav won't be processed
+2013-05-29 12:48:01.491 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-29 12:48:01.776 [ INFO] Going to extract=python274
+2013-05-29 12:48:08.113 [ INFO] Going to extract=st_oi
+2013-05-29 12:48:08.296 [ INFO] Going to extract=st_oi_ja
+2013-05-29 12:48:08.391 [ INFO] Going to extract=st_oi_ko
+2013-05-29 12:48:08.494 [ INFO] Going to extract=titanic
+2013-05-29 12:48:08.496 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\titanic.wav won't be processed
+2013-05-29 12:48:08.496 [ INFO] Going to extract=TPOG
+2013-05-29 12:55:37.561 [ INFO] REQ_URL=/help
+2013-05-29 13:14:39.967 [ INFO] REQ_URL=/help
+2013-05-29 13:16:15.059 [ INFO] REQ_URL=/help
+2013-05-29 13:16:58.106 [ INFO] REQ_URL=/help
+2013-05-29 13:17:40.976 [ INFO] REQ_URL=/help
+2013-05-29 13:18:29.381 [ INFO] REQ_URL=/help
+2013-05-29 13:19:03.289 [ INFO] REQ_URL=/help
+2013-05-29 13:19:04.451 [ INFO] REQ_URL=/help
+2013-05-29 13:19:17.214 [ INFO] REQ_URL=/help
+2013-05-29 13:19:44.406 [ INFO] REQ_URL=/help
+2013-05-29 13:20:28.713 [ INFO] REQ_URL=/help
+2013-05-29 13:20:30.858 [ INFO] REQ_URL=/help
+2013-05-29 13:21:38.189 [ INFO] REQ_URL=/help
+2013-05-29 13:23:16.135 [ INFO] REQ_URL=/help
+2013-05-29 14:01:11.739 [ INFO] REQ_URL=/help
+2013-05-29 14:01:17.106 [ INFO] REQ_URL=/etrgd
+2013-05-29 14:03:35.012 [ INFO] REQ_URL=/etrgd
+2013-05-29 14:05:26.813 [ INFO] REQ_URL=/help
+2013-05-29 14:05:31.008 [ INFO] REQ_URL=/help2
+2013-05-29 14:17:21.933 [ INFO] REQ_URL=/jkj
+2013-05-29 14:17:37.400 [ INFO] REQ_URL=/help
+2013-05-29 14:18:24.497 [ INFO] REQ_URL=/help78
+2013-05-29 14:20:18.599 [ INFO] REQ_URL=/90
+2013-05-29 14:21:51.877 [ INFO] REQ_URL=/kl
+2013-05-29 14:22:17.511 [ INFO] REQ_URL=/kl
+2013-05-29 14:22:35.092 [ INFO] REQ_URL=/help
+2013-05-29 14:23:20.996 [ INFO] REQ_URL=/kl
+2013-05-29 14:24:11.801 [ INFO] REQ_URL=/kl
+2013-05-29 14:25:04.221 [ INFO] REQ_URL=/kl
+2013-05-29 14:25:37.988 [ INFO] REQ_URL=/kl
+2013-05-29 14:25:38.044 [ INFO] REQ_URL=/favicon.ico
+2013-05-29 14:25:43.928 [ INFO] REQ_URL=/favicon.ico
+2013-05-29 14:37:13.033 [ INFO] REQ_URL=/help
+2013-05-29 14:37:13.035 [ERROR] java.io.IOException: Closed
+2013-05-29 14:37:25.029 [ INFO] REQ_URL=/kjljl/jn;lj;j
+2013-05-29 15:28:32.865 [ INFO] REQ_URL=/help
+2013-05-29 15:28:32.868 [ERROR] java.io.IOException: Closed
+2013-05-29 15:28:39.672 [ INFO] REQ_URL=/help/kl
+2013-05-29 15:28:49.759 [ INFO] REQ_URL=/help
+2013-05-29 15:28:49.759 [ERROR] java.io.IOException: Closed
+2013-05-29 15:28:54.823 [ INFO] REQ_URL=//extract/directory/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm
+2013-05-29 15:28:54.826 [ INFO] Going to extract=.NETFramework40BlendSDK
+2013-05-29 15:29:04.138 [ INFO] Going to extract=3D8F0F54C2CEF6D7EB45180C37B703261767C923_Open_Mobile_Client_Help
+2013-05-29 15:29:04.224 [ INFO] Going to extract=7-zip
+2013-05-29 15:29:04.479 [ INFO] Going to extract=aclui
+2013-05-29 15:29:04.599 [ INFO] Going to extract=americano_remixx
+2013-05-29 15:29:04.602 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\americano_remixx.wav won't be processed
+2013-05-29 15:29:04.602 [ INFO] Going to extract=galaxy_s4
+2013-05-29 15:29:04.602 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\galaxy_s4.wav won't be processed
+2013-05-29 15:29:04.604 [ INFO] Going to extract=house_of_the_rising
+2013-05-29 15:29:04.604 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\house_of_the_rising.wav won't be processed
+2013-05-29 15:29:04.607 [ INFO] Going to extract=natures_call
+2013-05-29 15:29:04.607 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\natures_call.wav won't be processed
+2013-05-29 15:29:04.607 [ INFO] Going to extract=old_telephone
+2013-05-29 15:29:04.609 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\old_telephone.wav won't be processed
+2013-05-29 15:29:04.609 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-29 15:29:04.722 [ INFO] Going to extract=python274
+2013-05-29 15:29:10.857 [ INFO] Going to extract=st_oi
+2013-05-29 15:29:10.943 [ INFO] Going to extract=st_oi_ja
+2013-05-29 15:29:11.030 [ INFO] Going to extract=st_oi_ko
+2013-05-29 15:29:11.133 [ INFO] Going to extract=titanic
+2013-05-29 15:29:11.133 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\titanic.wav won't be processed
+2013-05-29 15:29:11.133 [ INFO] Going to extract=TPOG
+2013-05-29 15:53:29.193 [ INFO] REQ_URL=/help/
+2013-05-29 15:53:34.242 [ INFO] REQ_URL=/help
+2013-05-29 15:53:34.242 [ERROR] java.io.IOException: Closed
+2013-05-29 15:54:16.667 [ INFO] REQ_URL=/metadata/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5C7-zip.chm
+2013-05-29 15:54:16.673 [ERROR] java.lang.NullPointerException
+2013-05-30 06:19:41.933 [ INFO] REQ_URL=/metadata/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-30 06:19:41.942 [ERROR] java.lang.NullPointerException
+2013-05-30 08:58:43.088 [ INFO] REQ_URL=/metadata/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-30 09:00:04.785 [ INFO] REQ_URL=/metadata/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-30 09:00:57.813 [ INFO] REQ_URL=/metadata/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-30 09:01:13.055 [ INFO] Going to extract=python274
+2013-05-30 09:05:18.132 [ INFO] REQ_URL=/metadata/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-30 09:05:18.134 [ INFO] Going to extract=python274
+2013-05-30 09:12:45.487 [ INFO] REQ_URL=/metadata/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-30 09:12:45.490 [ INFO] Going to extract=python274
+2013-05-30 09:12:45.586 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-30 09:13:33.862 [ INFO] REQ_URL=/metadata/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-30 09:13:33.862 [ INFO] Going to extract=python274
+2013-05-30 09:16:39.146 [ INFO] REQ_URL=/metadata/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-30 09:17:10.399 [ INFO] Going to extract=python274
+2013-05-30 09:17:15.856 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-30 09:20:26.813 [ INFO] REQ_URL=/metadata/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-30 09:20:30.774 [ INFO] Going to extract=python274
+2013-05-30 09:20:30.938 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-30 09:23:22.533 [ INFO] REQ_URL=/metadata/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-30 09:23:22.538 [ INFO] Going to extract=python274
+2013-05-30 09:23:22.629 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-30 09:26:58.333 [ INFO] REQ_URL=/metadata/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-30 09:26:58.335 [ INFO] Going to extract=python274
+2013-05-30 09:26:58.424 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-30 09:54:49.561 [ INFO] REQ_URL=/metadata/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-30 09:54:49.563 [ INFO] Going to extract=python274
+2013-05-30 09:55:00.354 [ INFO] REQ_URL=/metadata/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-30 09:55:00.354 [ INFO] Going to extract=python274
+2013-05-30 09:55:00.422 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-30 09:57:49.288 [ INFO] REQ_URL=/metadata/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-30 09:57:49.293 [ INFO] Going to extract=python274
+2013-05-30 09:57:49.387 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-30 09:59:06.238 [ INFO] REQ_URL=/metadata/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-30 09:59:06.248 [ INFO] Going to extract=python274
+2013-05-30 09:59:06.339 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-30 11:03:11.132 [ INFO] REQ_URL=/metadata/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-30 11:03:11.137 [ INFO] Going to extract=python274
+2013-05-30 11:04:09.108 [ INFO] REQ_URL=/metadata/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-30 11:04:09.108 [ INFO] Going to extract=python274
+2013-05-30 11:04:09.192 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-30 11:04:48.171 [ INFO] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-30 11:04:48.177 [ INFO] Going to extract=python274
+2013-05-30 11:06:07.005 [ INFO] REQ_URL=//extract/directory/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm
+2013-05-30 11:06:07.014 [ INFO] Going to extract=.NETFramework40BlendSDK
+2013-05-30 11:06:14.975 [ INFO] Going to extract=3D8F0F54C2CEF6D7EB45180C37B703261767C923_Open_Mobile_Client_Help
+2013-05-30 11:06:15.066 [ INFO] Going to extract=7-zip
+2013-05-30 11:06:15.296 [ INFO] Going to extract=aclui
+2013-05-30 11:06:15.404 [ INFO] Going to extract=americano_remixx
+2013-05-30 11:06:15.409 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\americano_remixx.wav won't be processed
+2013-05-30 11:06:15.409 [ INFO] Going to extract=galaxy_s4
+2013-05-30 11:06:15.411 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\galaxy_s4.wav won't be processed
+2013-05-30 11:06:15.411 [ INFO] Going to extract=house_of_the_rising
+2013-05-30 11:06:15.414 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\house_of_the_rising.wav won't be processed
+2013-05-30 11:06:15.416 [ INFO] Going to extract=natures_call
+2013-05-30 11:06:15.419 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\natures_call.wav won't be processed
+2013-05-30 11:06:15.419 [ INFO] Going to extract=old_telephone
+2013-05-30 11:06:15.421 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\old_telephone.wav won't be processed
+2013-05-30 11:06:15.421 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-30 11:06:15.541 [ INFO] Going to extract=python274
+2013-05-30 11:06:21.437 [ INFO] Going to extract=st_oi
+2013-05-30 11:06:21.523 [ INFO] Going to extract=st_oi_ja
+2013-05-30 11:06:21.615 [ INFO] Going to extract=st_oi_ko
+2013-05-30 11:06:21.715 [ INFO] Going to extract=titanic
+2013-05-30 11:06:21.718 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\titanic.wav won't be processed
+2013-05-30 11:06:21.718 [ INFO] Going to extract=TPOG
+2013-05-30 11:36:29.038 [ INFO] Going to extract=python274
+2013-05-30 11:39:03.829 [ INFO] Going to extract=.NETFramework40BlendSDK
+2013-05-30 11:39:13.384 [ INFO] Going to extract=3D8F0F54C2CEF6D7EB45180C37B703261767C923_Open_Mobile_Client_Help
+2013-05-30 11:39:13.478 [ INFO] Going to extract=7-zip
+2013-05-30 11:39:13.629 [ INFO] Going to extract=aclui
+2013-05-30 11:39:13.741 [ INFO] Going to extract=americano_remixx
+2013-05-30 11:39:13.744 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\americano_remixx.wav won't be processed
+2013-05-30 11:39:13.745 [ INFO] Going to extract=galaxy_s4
+2013-05-30 11:39:13.746 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\galaxy_s4.wav won't be processed
+2013-05-30 11:39:13.747 [ INFO] Going to extract=house_of_the_rising
+2013-05-30 11:39:13.748 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\house_of_the_rising.wav won't be processed
+2013-05-30 11:39:13.749 [ INFO] Going to extract=natures_call
+2013-05-30 11:39:13.749 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\natures_call.wav won't be processed
+2013-05-30 11:39:13.752 [ INFO] Going to extract=old_telephone
+2013-05-30 11:39:13.752 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\old_telephone.wav won't be processed
+2013-05-30 11:39:13.752 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-30 11:39:13.879 [ INFO] Going to extract=python274
+2013-05-30 11:39:20.144 [ INFO] Going to extract=st_oi
+2013-05-30 11:39:20.234 [ INFO] Going to extract=st_oi_ja
+2013-05-30 11:39:20.329 [ INFO] Going to extract=st_oi_ko
+2013-05-30 11:39:20.434 [ INFO] Going to extract=titanic
+2013-05-30 11:39:20.434 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\titanic.wav won't be processed
+2013-05-30 11:39:20.436 [ INFO] Going to extract=TPOG
+2013-05-30 11:43:29.259 [ INFO] Going to extract=python274
+2013-05-30 11:44:12.158 [ INFO] Going to extract=7-zip
+2013-05-30 11:48:56.104 [ INFO] Going to extract=.NETFramework40BlendSDK
+2013-05-30 11:49:04.282 [ INFO] Going to extract=3D8F0F54C2CEF6D7EB45180C37B703261767C923_Open_Mobile_Client_Help
+2013-05-30 11:49:04.380 [ INFO] Going to extract=7-zip
+2013-05-30 11:49:04.528 [ INFO] Going to extract=aclui
+2013-05-30 11:49:04.652 [ INFO] Going to extract=americano_remixx
+2013-05-30 11:49:04.654 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\americano_remixx.wav won't be processed
+2013-05-30 11:49:04.655 [ INFO] Going to extract=galaxy_s4
+2013-05-30 11:49:04.657 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\galaxy_s4.wav won't be processed
+2013-05-30 11:49:04.658 [ INFO] Going to extract=house_of_the_rising
+2013-05-30 11:49:04.659 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\house_of_the_rising.wav won't be processed
+2013-05-30 11:49:04.660 [ INFO] Going to extract=natures_call
+2013-05-30 11:49:04.661 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\natures_call.wav won't be processed
+2013-05-30 11:49:04.662 [ INFO] Going to extract=old_telephone
+2013-05-30 11:49:04.663 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\old_telephone.wav won't be processed
+2013-05-30 11:49:04.664 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-30 11:49:04.790 [ INFO] Going to extract=python274
+2013-05-30 11:49:10.999 [ INFO] Going to extract=st_oi
+2013-05-30 11:49:11.108 [ INFO] Going to extract=st_oi_ja
+2013-05-30 11:49:11.198 [ INFO] Going to extract=st_oi_ko
+2013-05-30 11:49:11.298 [ INFO] Going to extract=titanic
+2013-05-30 11:49:11.300 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\titanic.wav won't be processed
+2013-05-30 11:49:11.300 [ INFO] Going to extract=TPOG
+2013-05-30 11:53:02.393 [ INFO] Going to extract=.NETFramework40BlendSDK
+2013-05-30 11:53:12.095 [ INFO] Going to extract=3D8F0F54C2CEF6D7EB45180C37B703261767C923_Open_Mobile_Client_Help
+2013-05-30 11:53:12.214 [ INFO] Going to extract=7-zip
+2013-05-30 11:53:12.364 [ INFO] Going to extract=aclui
+2013-05-30 11:53:12.474 [ INFO] Going to extract=americano_remixx
+2013-05-30 11:53:12.477 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\americano_remixx.wav won't be processed
+2013-05-30 11:53:12.479 [ INFO] Going to extract=galaxy_s4
+2013-05-30 11:53:12.479 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\galaxy_s4.wav won't be processed
+2013-05-30 11:53:12.479 [ INFO] Going to extract=house_of_the_rising
+2013-05-30 11:53:12.482 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\house_of_the_rising.wav won't be processed
+2013-05-30 11:53:12.482 [ INFO] Going to extract=natures_call
+2013-05-30 11:53:12.484 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\natures_call.wav won't be processed
+2013-05-30 11:53:12.484 [ INFO] Going to extract=old_telephone
+2013-05-30 11:53:12.484 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\old_telephone.wav won't be processed
+2013-05-30 11:53:12.487 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-30 11:53:12.612 [ INFO] Going to extract=python274
+2013-05-30 11:53:18.684 [ INFO] Going to extract=st_oi
+2013-05-30 11:53:18.773 [ INFO] Going to extract=st_oi_ja
+2013-05-30 11:53:18.863 [ INFO] Going to extract=st_oi_ko
+2013-05-30 11:53:18.965 [ INFO] Going to extract=titanic
+2013-05-30 11:53:18.965 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\titanic.wav won't be processed
+2013-05-30 11:53:18.965 [ INFO] Going to extract=TPOG
+2013-05-30 11:55:27.201 [ INFO] Going to extract=.NETFramework40BlendSDK
+2013-05-30 11:55:36.636 [ INFO] Going to extract=3D8F0F54C2CEF6D7EB45180C37B703261767C923_Open_Mobile_Client_Help
+2013-05-30 11:55:36.734 [ INFO] Going to extract=7-zip
+2013-05-30 11:55:36.881 [ INFO] Going to extract=aclui
+2013-05-30 11:55:36.986 [ INFO] Going to extract=americano_remixx
+2013-05-30 11:55:36.988 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\americano_remixx.wav won't be processed
+2013-05-30 11:55:36.988 [ INFO] Going to extract=galaxy_s4
+2013-05-30 11:55:36.991 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\galaxy_s4.wav won't be processed
+2013-05-30 11:55:36.991 [ INFO] Going to extract=house_of_the_rising
+2013-05-30 11:55:36.991 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\house_of_the_rising.wav won't be processed
+2013-05-30 11:55:36.993 [ INFO] Going to extract=natures_call
+2013-05-30 11:55:36.993 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\natures_call.wav won't be processed
+2013-05-30 11:55:36.996 [ INFO] Going to extract=old_telephone
+2013-05-30 11:55:36.996 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\old_telephone.wav won't be processed
+2013-05-30 11:55:36.996 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-30 11:55:37.089 [ INFO] Going to extract=python274
+2013-05-30 11:55:43.445 [ INFO] Going to extract=st_oi
+2013-05-30 11:55:43.534 [ INFO] Going to extract=st_oi_ja
+2013-05-30 11:55:43.626 [ INFO] Going to extract=st_oi_ko
+2013-05-30 11:55:43.719 [ INFO] Going to extract=titanic
+2013-05-30 11:55:43.721 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\titanic.wav won't be processed
+2013-05-30 11:55:43.721 [ INFO] Going to extract=TPOG
+2013-05-30 11:57:12.834 [ INFO] Going to extract=.NETFramework40BlendSDK
+2013-05-30 11:57:23.382 [ INFO] Going to extract=3D8F0F54C2CEF6D7EB45180C37B703261767C923_Open_Mobile_Client_Help
+2013-05-30 11:57:23.478 [ INFO] Going to extract=7-zip
+2013-05-30 11:57:23.634 [ INFO] Going to extract=aclui
+2013-05-30 11:57:23.748 [ INFO] Going to extract=americano_remixx
+2013-05-30 11:57:23.751 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\americano_remixx.wav won't be processed
+2013-05-30 11:57:23.751 [ INFO] Going to extract=galaxy_s4
+2013-05-30 11:57:23.753 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\galaxy_s4.wav won't be processed
+2013-05-30 11:57:23.753 [ INFO] Going to extract=house_of_the_rising
+2013-05-30 11:57:23.756 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\house_of_the_rising.wav won't be processed
+2013-05-30 11:57:23.756 [ INFO] Going to extract=natures_call
+2013-05-30 11:57:23.756 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\natures_call.wav won't be processed
+2013-05-30 11:57:23.758 [ INFO] Going to extract=old_telephone
+2013-05-30 11:57:23.758 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\old_telephone.wav won't be processed
+2013-05-30 11:57:23.761 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-30 11:57:23.928 [ INFO] Going to extract=python274
+2013-05-30 11:57:30.322 [ INFO] Going to extract=st_oi
+2013-05-30 11:57:30.435 [ INFO] Going to extract=st_oi_ja
+2013-05-30 11:57:30.616 [ INFO] Going to extract=st_oi_ko
+2013-05-30 11:57:30.718 [ INFO] Going to extract=titanic
+2013-05-30 11:57:30.718 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\titanic.wav won't be processed
+2013-05-30 11:57:30.721 [ INFO] Going to extract=TPOG
+2013-05-30 11:58:04.626 [ERROR] java.io.IOException: Closed
+2013-05-30 15:59:27.642 [ERROR] java.io.IOException: Closed
+2013-05-30 15:59:40.748 [ INFO] Going to extract=python274
+2013-05-30 16:01:59.533 [ INFO] Going to extract=python274
+2013-05-30 16:02:06.113 [ERROR] java.io.IOException: Closed
+2013-05-30 16:03:29.736 [ INFO] Going to extract=python274
+2013-05-30 16:03:29.812 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-30 16:05:07.484 [ INFO] Going to extract=python274
+2013-05-30 16:05:07.562 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-30 16:06:25.901 [ INFO] Going to extract=python274
+2013-05-30 16:06:25.974 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-30 16:07:17.400 [ INFO] Going to extract=python274
+2013-05-30 16:07:17.477 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-30 16:09:15.418 [ INFO] Going to extract=python274
+2013-05-30 16:09:15.494 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-30 16:09:43.077 [ INFO] Going to extract=python274
+2013-05-30 18:58:38.351 [ERROR] java.lang.NullPointerException
+2013-05-30 18:58:38.353 [ERROR] java.lang.NullPointerException
+2013-05-30 18:58:38.354 [ERROR] java.lang.NullPointerException
+2013-05-30 19:08:38.497 [ERROR] java.lang.NullPointerException
+2013-05-30 19:08:38.502 [ERROR] java.lang.NullPointerException
+2013-05-30 19:08:38.505 [ERROR] java.lang.NullPointerException
+2013-05-30 19:09:09.200 [ERROR] java.lang.NullPointerException
+2013-05-30 19:09:09.202 [ERROR] java.lang.NullPointerException
+2013-05-30 19:09:09.204 [ERROR] java.lang.NullPointerException
+2013-05-30 19:09:11.053 [ERROR] java.lang.NullPointerException
+2013-05-30 19:09:11.055 [ERROR] java.lang.NullPointerException
+2013-05-30 19:09:11.056 [ERROR] java.lang.NullPointerException
+2013-05-30 19:19:18.133 [ERROR] java.lang.NullPointerException
+2013-05-30 19:20:52.196 [ERROR] java.lang.NullPointerException
+2013-05-30 19:23:38.155 [ERROR] java.lang.NullPointerException
+2013-05-30 22:45:11.823 [ERROR] java.lang.NullPointerException
+2013-05-30 22:45:11.826 [ERROR] java.lang.NullPointerException
+2013-05-30 22:45:11.828 [ERROR] java.lang.NullPointerException
+2013-05-30 22:45:11.832 [ERROR] java.lang.NullPointerException
+2013-05-30 22:45:13.988 [ERROR] java.lang.NullPointerException
+2013-05-30 22:45:13.989 [ERROR] java.lang.NullPointerException
+2013-05-30 22:45:13.990 [ERROR] java.lang.NullPointerException
+2013-05-30 22:45:13.994 [ERROR] java.lang.NullPointerException
+2013-05-30 22:51:23.517 [ERROR] java.lang.NullPointerException
+2013-05-30 22:54:03.458 [ERROR] java.lang.NullPointerException
+2013-05-30 23:18:44.082 [ERROR] java.lang.NullPointerException
+2013-05-30 23:20:50.960 [ERROR] java.lang.NullPointerException
+2013-05-30 23:21:08.894 [ERROR] java.lang.NullPointerException
+2013-05-30 23:22:43.695 [ERROR] java.lang.NullPointerException
+2013-05-30 23:23:46.722 [ERROR] java.lang.NullPointerException
+2013-05-30 23:23:46.724 [ERROR] java.lang.NullPointerException
+2013-05-30 23:23:46.726 [ERROR] java.lang.NullPointerException
+2013-05-30 23:23:46.731 [ERROR] java.lang.NullPointerException
+2013-05-30 23:23:49.621 [ERROR] java.lang.NullPointerException
+2013-05-30 23:23:49.622 [ERROR] java.lang.NullPointerException
+2013-05-30 23:23:49.623 [ERROR] java.lang.NullPointerException
+2013-05-30 23:23:49.629 [ERROR] java.lang.NullPointerException
+2013-05-31 08:04:48.684 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 08:04:48.686 [ERROR] java.io.FileNotFoundException: null\cobertura.json (The system cannot find the path specified)
+2013-05-31 08:04:48.687 [ERROR] java.io.FileNotFoundException: null\extractor-0.0.1-SNAPSHOT.jar.json (The system cannot find the path specified)
+2013-05-31 08:04:48.688 [ERROR] java.io.FileNotFoundException: null\generated-classes.json (The system cannot find the path specified)
+2013-05-31 08:04:48.688 [ERROR] java.io.FileNotFoundException: null\maven-archiver.json (The system cannot find the path specified)
+2013-05-31 08:04:48.689 [ERROR] java.io.FileNotFoundException: null\site.json (The system cannot find the path specified)
+2013-05-31 08:04:48.690 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 08:04:48.691 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 08:04:48.691 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 08:04:48.692 [ERROR] java.lang.NullPointerException
+2013-05-31 08:05:48.788 [ERROR] java.lang.NullPointerException
+2013-05-31 08:05:48.791 [ERROR] java.lang.NullPointerException
+2013-05-31 08:05:48.792 [ERROR] java.lang.NullPointerException
+2013-05-31 08:05:48.819 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 08:05:48.820 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 08:05:48.820 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 08:05:48.820 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 08:05:48.820 [ERROR] java.lang.NullPointerException
+2013-05-31 08:05:51.718 [ERROR] java.lang.NullPointerException
+2013-05-31 08:05:51.720 [ERROR] java.lang.NullPointerException
+2013-05-31 08:05:51.721 [ERROR] java.lang.NullPointerException
+2013-05-31 08:05:51.750 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 08:05:51.751 [ERROR] java.io.FileNotFoundException: null\cobertura.json (The system cannot find the path specified)
+2013-05-31 08:05:51.751 [ERROR] java.io.FileNotFoundException: null\extractor-0.0.1-SNAPSHOT.jar.json (The system cannot find the path specified)
+2013-05-31 08:05:51.751 [ERROR] java.io.FileNotFoundException: null\generated-classes.json (The system cannot find the path specified)
+2013-05-31 08:05:51.752 [ERROR] java.io.FileNotFoundException: null\maven-archiver.json (The system cannot find the path specified)
+2013-05-31 08:05:51.752 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 08:05:51.752 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 08:05:51.752 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 08:05:51.753 [ERROR] java.lang.NullPointerException
+2013-05-31 10:37:12.631 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 10:37:12.631 [ERROR] java.io.FileNotFoundException: null\cobertura.json (The system cannot find the path specified)
+2013-05-31 10:37:12.632 [ERROR] java.io.FileNotFoundException: null\extractor-0.0.1-SNAPSHOT.jar.json (The system cannot find the path specified)
+2013-05-31 10:37:12.632 [ERROR] java.io.FileNotFoundException: null\generated-classes.json (The system cannot find the path specified)
+2013-05-31 10:37:12.632 [ERROR] java.io.FileNotFoundException: null\maven-archiver.json (The system cannot find the path specified)
+2013-05-31 10:37:12.632 [ERROR] java.io.FileNotFoundException: null\site.json (The system cannot find the path specified)
+2013-05-31 10:37:12.632 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 10:37:12.633 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 10:37:12.633 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 10:37:12.633 [ERROR] java.lang.NullPointerException
+2013-05-31 10:38:32.006 [ERROR] java.lang.NullPointerException
+2013-05-31 10:38:32.008 [ERROR] java.lang.NullPointerException
+2013-05-31 10:38:32.010 [ERROR] java.lang.NullPointerException
+2013-05-31 10:38:32.038 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 10:38:32.038 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 10:38:32.039 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 10:38:32.039 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 10:38:32.039 [ERROR] java.lang.NullPointerException
+2013-05-31 10:38:34.970 [ERROR] java.lang.NullPointerException
+2013-05-31 10:38:34.971 [ERROR] java.lang.NullPointerException
+2013-05-31 10:38:34.972 [ERROR] java.lang.NullPointerException
+2013-05-31 10:38:35.003 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 10:38:35.003 [ERROR] java.io.FileNotFoundException: null\cobertura.json (The system cannot find the path specified)
+2013-05-31 10:38:35.004 [ERROR] java.io.FileNotFoundException: null\extractor-0.0.1-SNAPSHOT.jar.json (The system cannot find the path specified)
+2013-05-31 10:38:35.004 [ERROR] java.io.FileNotFoundException: null\generated-classes.json (The system cannot find the path specified)
+2013-05-31 10:38:35.004 [ERROR] java.io.FileNotFoundException: null\maven-archiver.json (The system cannot find the path specified)
+2013-05-31 10:38:35.004 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 10:38:35.005 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 10:38:35.005 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 10:38:35.005 [ERROR] java.lang.NullPointerException
+2013-05-31 11:08:51.452 [ERROR] java.lang.NullPointerException
+2013-05-31 11:20:35.284 [ERROR] java.lang.NullPointerException
+2013-05-31 11:20:35.286 [ERROR] java.lang.NullPointerException
+2013-05-31 11:20:35.287 [ERROR] java.lang.NullPointerException
+2013-05-31 11:20:35.313 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 11:20:35.313 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 11:20:35.313 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 11:20:35.313 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 11:20:35.314 [ERROR] java.lang.NullPointerException
+2013-05-31 11:20:37.447 [ERROR] java.lang.NullPointerException
+2013-05-31 11:20:37.448 [ERROR] java.lang.NullPointerException
+2013-05-31 11:20:37.450 [ERROR] java.lang.NullPointerException
+2013-05-31 11:20:37.476 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 11:20:37.477 [ERROR] java.io.FileNotFoundException: null\cobertura.json (The system cannot find the path specified)
+2013-05-31 11:20:37.477 [ERROR] java.io.FileNotFoundException: null\extractor-0.0.1-SNAPSHOT.jar.json (The system cannot find the path specified)
+2013-05-31 11:20:37.477 [ERROR] java.io.FileNotFoundException: null\generated-classes.json (The system cannot find the path specified)
+2013-05-31 11:20:37.477 [ERROR] java.io.FileNotFoundException: null\maven-archiver.json (The system cannot find the path specified)
+2013-05-31 11:20:37.478 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 11:20:37.478 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 11:20:37.478 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 11:20:37.478 [ERROR] java.lang.NullPointerException
+2013-05-31 11:22:31.504 [ERROR] java.lang.NullPointerException
+2013-05-31 11:22:31.506 [ERROR] java.lang.NullPointerException
+2013-05-31 11:22:31.508 [ERROR] java.lang.NullPointerException
+2013-05-31 11:22:31.535 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 11:22:31.535 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 11:22:31.535 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 11:22:31.536 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 11:22:31.536 [ERROR] java.lang.NullPointerException
+2013-05-31 11:22:33.655 [ERROR] java.lang.NullPointerException
+2013-05-31 11:22:33.657 [ERROR] java.lang.NullPointerException
+2013-05-31 11:22:33.658 [ERROR] java.lang.NullPointerException
+2013-05-31 11:22:33.685 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 11:22:33.685 [ERROR] java.io.FileNotFoundException: null\cobertura.json (The system cannot find the path specified)
+2013-05-31 11:22:33.685 [ERROR] java.io.FileNotFoundException: null\extractor-0.0.1-SNAPSHOT.jar.json (The system cannot find the path specified)
+2013-05-31 11:22:33.686 [ERROR] java.io.FileNotFoundException: null\generated-classes.json (The system cannot find the path specified)
+2013-05-31 11:22:33.686 [ERROR] java.io.FileNotFoundException: null\maven-archiver.json (The system cannot find the path specified)
+2013-05-31 11:22:33.686 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 11:22:33.687 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 11:22:33.687 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 11:22:33.687 [ERROR] java.lang.NullPointerException
+2013-05-31 11:23:29.305 [ERROR] java.lang.NullPointerException
+2013-05-31 11:23:29.306 [ERROR] java.lang.NullPointerException
+2013-05-31 11:23:29.332 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 11:23:29.333 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 11:23:29.333 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 11:23:29.333 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 11:23:31.520 [ERROR] java.lang.NullPointerException
+2013-05-31 11:23:31.522 [ERROR] java.lang.NullPointerException
+2013-05-31 11:23:31.548 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 11:23:31.549 [ERROR] java.io.FileNotFoundException: null\cobertura.json (The system cannot find the path specified)
+2013-05-31 11:23:31.549 [ERROR] java.io.FileNotFoundException: null\extractor-0.0.1-SNAPSHOT.jar.json (The system cannot find the path specified)
+2013-05-31 11:23:31.549 [ERROR] java.io.FileNotFoundException: null\generated-classes.json (The system cannot find the path specified)
+2013-05-31 11:23:31.550 [ERROR] java.io.FileNotFoundException: null\maven-archiver.json (The system cannot find the path specified)
+2013-05-31 11:23:31.550 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 11:23:31.550 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 11:23:31.550 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 11:24:05.584 [ERROR] java.lang.NullPointerException
+2013-05-31 11:24:05.586 [ERROR] java.lang.NullPointerException
+2013-05-31 11:24:05.588 [ERROR] java.lang.NullPointerException
+2013-05-31 11:24:05.615 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 11:24:05.616 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 11:24:05.616 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 11:24:05.616 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 11:24:05.616 [ERROR] java.lang.NullPointerException
+2013-05-31 11:24:07.923 [ERROR] java.lang.NullPointerException
+2013-05-31 11:24:07.926 [ERROR] java.lang.NullPointerException
+2013-05-31 11:24:07.928 [ERROR] java.lang.NullPointerException
+2013-05-31 11:24:07.956 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 11:24:07.957 [ERROR] java.io.FileNotFoundException: null\cobertura.json (The system cannot find the path specified)
+2013-05-31 11:24:07.957 [ERROR] java.io.FileNotFoundException: null\extractor-0.0.1-SNAPSHOT.jar.json (The system cannot find the path specified)
+2013-05-31 11:24:07.957 [ERROR] java.io.FileNotFoundException: null\generated-classes.json (The system cannot find the path specified)
+2013-05-31 11:24:07.957 [ERROR] java.io.FileNotFoundException: null\maven-archiver.json (The system cannot find the path specified)
+2013-05-31 11:24:07.958 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 11:24:07.958 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 11:24:07.958 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 11:24:07.958 [ERROR] java.lang.NullPointerException
+2013-05-31 11:26:27.984 [ERROR] java.lang.NullPointerException
+2013-05-31 11:26:27.986 [ERROR] java.lang.NullPointerException
+2013-05-31 11:26:27.988 [ERROR] java.lang.NullPointerException
+2013-05-31 11:26:28.016 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 11:26:28.016 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 11:26:28.016 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 11:26:28.017 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 11:26:28.017 [ERROR] java.lang.NullPointerException
+2013-05-31 11:26:30.100 [ERROR] java.lang.NullPointerException
+2013-05-31 11:26:30.102 [ERROR] java.lang.NullPointerException
+2013-05-31 11:26:30.103 [ERROR] java.lang.NullPointerException
+2013-05-31 11:26:30.130 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 11:26:30.130 [ERROR] java.io.FileNotFoundException: null\cobertura.json (The system cannot find the path specified)
+2013-05-31 11:26:30.131 [ERROR] java.io.FileNotFoundException: null\extractor-0.0.1-SNAPSHOT.jar.json (The system cannot find the path specified)
+2013-05-31 11:26:30.131 [ERROR] java.io.FileNotFoundException: null\generated-classes.json (The system cannot find the path specified)
+2013-05-31 11:26:30.131 [ERROR] java.io.FileNotFoundException: null\maven-archiver.json (The system cannot find the path specified)
+2013-05-31 11:26:30.131 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 11:26:30.132 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 11:26:30.132 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 11:26:30.132 [ERROR] java.lang.NullPointerException
+2013-05-31 11:33:29.497 [ERROR] java.lang.NullPointerException
+2013-05-31 11:33:29.498 [ERROR] java.lang.NullPointerException
+2013-05-31 11:33:29.499 [ERROR] java.lang.NullPointerException
+2013-05-31 11:33:29.525 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 11:33:29.526 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 11:33:29.526 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 11:33:29.526 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 11:33:29.526 [ERROR] java.lang.NullPointerException
+2013-05-31 11:34:09.810 [DEBUG] REQ_URL=/helppp
+2013-05-31 11:34:26.747 [DEBUG] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-31 11:34:26.955 [ INFO] Going to extract=python274
+2013-05-31 11:34:49.171 [DEBUG] REQ_URL=/metadata/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-31 11:34:49.177 [ INFO] Going to extract=python274
+2013-05-31 11:34:49.280 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 11:35:32.727 [DEBUG] REQ_URL=/extract/directory/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm
+2013-05-31 11:35:32.733 [ INFO] Going to extract=.NETFramework40BlendSDK
+2013-05-31 11:35:40.950 [ INFO] Going to extract=3D8F0F54C2CEF6D7EB45180C37B703261767C923_Open_Mobile_Client_Help
+2013-05-31 11:35:41.036 [ INFO] Going to extract=7-zip
+2013-05-31 11:35:41.175 [ INFO] Going to extract=aclui
+2013-05-31 11:35:41.277 [ INFO] Going to extract=americano_remixx
+2013-05-31 11:35:41.284 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\americano_remixx.wav won't be processed
+2013-05-31 11:35:41.285 [ INFO] Going to extract=galaxy_s4
+2013-05-31 11:35:41.289 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\galaxy_s4.wav won't be processed
+2013-05-31 11:35:41.290 [ INFO] Going to extract=house_of_the_rising
+2013-05-31 11:35:41.294 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\house_of_the_rising.wav won't be processed
+2013-05-31 11:35:41.295 [ INFO] Going to extract=natures_call
+2013-05-31 11:35:41.298 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\natures_call.wav won't be processed
+2013-05-31 11:35:41.299 [ INFO] Going to extract=old_telephone
+2013-05-31 11:35:41.303 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\old_telephone.wav won't be processed
+2013-05-31 11:35:41.304 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 11:35:41.459 [ INFO] Going to extract=python274
+2013-05-31 11:35:41.498 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 11:35:41.502 [ INFO] Going to extract=st_oi
+2013-05-31 11:35:41.618 [ INFO] Going to extract=st_oi_ja
+2013-05-31 11:35:41.718 [ INFO] Going to extract=st_oi_ko
+2013-05-31 11:35:41.824 [ INFO] Going to extract=titanic
+2013-05-31 11:35:41.828 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\titanic.wav won't be processed
+2013-05-31 11:35:41.830 [ INFO] Going to extract=TPOG
+2013-05-31 13:52:06.667 [ERROR] java.lang.NullPointerException
+2013-05-31 13:52:06.668 [ERROR] java.lang.NullPointerException
+2013-05-31 13:52:06.669 [ERROR] java.lang.NullPointerException
+2013-05-31 13:52:06.695 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 13:52:06.695 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 13:52:06.695 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 13:52:06.696 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 13:52:06.696 [ERROR] java.lang.NullPointerException
+2013-05-31 13:52:18.012 [DEBUG] REQ_URL=/extract/directory/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm
+2013-05-31 13:52:18.134 [ INFO] Going to extract=.NETFramework40BlendSDK
+2013-05-31 13:52:18.198 [ WARN] Folder for .NETFramework40BlendSDK exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 13:52:18.225 [ INFO] Going to extract=3D8F0F54C2CEF6D7EB45180C37B703261767C923_Open_Mobile_Client_Help
+2013-05-31 13:52:18.228 [ WARN] Folder for 3D8F0F54C2CEF6D7EB45180C37B703261767C923_Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 13:52:18.229 [ INFO] Going to extract=7-zip
+2013-05-31 13:52:18.232 [ WARN] Folder for 7-zip exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 13:52:18.233 [ INFO] Going to extract=aclui
+2013-05-31 13:52:18.236 [ WARN] Folder for aclui exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 13:52:18.238 [ INFO] Going to extract=americano_remixx
+2013-05-31 13:52:18.239 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\americano_remixx.wav won't be processed
+2013-05-31 13:52:18.240 [ INFO] Going to extract=galaxy_s4
+2013-05-31 13:52:18.241 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\galaxy_s4.wav won't be processed
+2013-05-31 13:52:18.243 [ INFO] Going to extract=house_of_the_rising
+2013-05-31 13:52:18.244 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\house_of_the_rising.wav won't be processed
+2013-05-31 13:52:18.244 [ INFO] Going to extract=natures_call
+2013-05-31 13:52:18.246 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\natures_call.wav won't be processed
+2013-05-31 13:52:18.246 [ INFO] Going to extract=old_telephone
+2013-05-31 13:52:18.247 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\old_telephone.wav won't be processed
+2013-05-31 13:52:18.248 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 13:52:18.251 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 13:52:18.252 [ INFO] Going to extract=python274
+2013-05-31 13:52:18.294 [ WARN] Folder for python274 exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 13:52:18.296 [ INFO] Going to extract=st_oi
+2013-05-31 13:52:18.299 [ WARN] Folder for st_oi exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 13:52:18.300 [ INFO] Going to extract=st_oi_ja
+2013-05-31 13:52:18.303 [ WARN] Folder for st_oi_ja exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 13:52:18.304 [ INFO] Going to extract=st_oi_ko
+2013-05-31 13:52:18.313 [ WARN] Folder for st_oi_ko exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 13:52:18.315 [ INFO] Going to extract=titanic
+2013-05-31 13:52:18.316 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\titanic.wav won't be processed
+2013-05-31 13:52:18.317 [ INFO] Going to extract=TPOG
+2013-05-31 13:52:18.319 [ WARN] Folder for TPOG exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 13:54:56.013 [DEBUG] REQ_URL=/help
+2013-05-31 13:54:56.018 [ERROR] java.io.IOException: Closed
+2013-05-31 13:55:01.945 [DEBUG] REQ_URL=/extract/directory/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm
+2013-05-31 13:55:01.948 [ INFO] Going to extract=.NETFramework40BlendSDK
+2013-05-31 13:55:09.570 [ INFO] Going to extract=3D8F0F54C2CEF6D7EB45180C37B703261767C923_Open_Mobile_Client_Help
+2013-05-31 13:55:09.659 [ INFO] Going to extract=7-zip
+2013-05-31 13:55:09.797 [ INFO] Going to extract=aclui
+2013-05-31 13:55:09.900 [ INFO] Going to extract=americano_remixx
+2013-05-31 13:55:09.901 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\americano_remixx.wav won't be processed
+2013-05-31 13:55:09.903 [ INFO] Going to extract=galaxy_s4
+2013-05-31 13:55:09.903 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\galaxy_s4.wav won't be processed
+2013-05-31 13:55:09.904 [ INFO] Going to extract=house_of_the_rising
+2013-05-31 13:55:09.905 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\house_of_the_rising.wav won't be processed
+2013-05-31 13:55:09.906 [ INFO] Going to extract=natures_call
+2013-05-31 13:55:09.907 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\natures_call.wav won't be processed
+2013-05-31 13:55:09.908 [ INFO] Going to extract=old_telephone
+2013-05-31 13:55:09.909 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\old_telephone.wav won't be processed
+2013-05-31 13:55:09.910 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 13:55:10.020 [ INFO] Going to extract=python274
+2013-05-31 13:55:15.959 [ INFO] Going to extract=st_oi
+2013-05-31 13:55:16.038 [ INFO] Going to extract=st_oi_ja
+2013-05-31 13:55:16.127 [ INFO] Going to extract=st_oi_ko
+2013-05-31 13:55:16.224 [ INFO] Going to extract=titanic
+2013-05-31 13:55:16.225 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\titanic.wav won't be processed
+2013-05-31 13:55:16.226 [ INFO] Going to extract=TPOG
+2013-05-31 13:55:52.272 [DEBUG] REQ_URL=/extract/directo
+2013-05-31 16:50:54.035 [ERROR] java.lang.NullPointerException
+2013-05-31 16:50:54.036 [ERROR] java.lang.NullPointerException
+2013-05-31 16:50:54.037 [ERROR] java.lang.NullPointerException
+2013-05-31 16:50:54.063 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 16:50:54.063 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 16:50:54.063 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 16:50:54.063 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 16:50:54.064 [ERROR] java.lang.NullPointerException
+2013-05-31 16:50:57.154 [ERROR] java.lang.NullPointerException
+2013-05-31 16:50:57.156 [ERROR] java.lang.NullPointerException
+2013-05-31 16:50:57.157 [ERROR] java.lang.NullPointerException
+2013-05-31 16:50:57.187 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 16:50:57.187 [ERROR] java.io.FileNotFoundException: null\cobertura.json (The system cannot find the path specified)
+2013-05-31 16:50:57.188 [ERROR] java.io.FileNotFoundException: null\extractor-0.0.1-SNAPSHOT.jar.json (The system cannot find the path specified)
+2013-05-31 16:50:57.188 [ERROR] java.io.FileNotFoundException: null\generated-classes.json (The system cannot find the path specified)
+2013-05-31 16:50:57.188 [ERROR] java.io.FileNotFoundException: null\maven-archiver.json (The system cannot find the path specified)
+2013-05-31 16:50:57.189 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 16:50:57.189 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 16:50:57.189 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 16:50:57.189 [ERROR] java.lang.NullPointerException
+2013-05-31 16:56:40.501 [ERROR] java.lang.NullPointerException
+2013-05-31 16:58:24.843 [ERROR] java.lang.NullPointerException
+2013-05-31 16:59:40.558 [ERROR] java.lang.NullPointerException
+2013-05-31 17:03:05.043 [ERROR] java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+2013-05-31 17:04:15.919 [ERROR] java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+2013-05-31 17:05:54.887 [ERROR] java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+2013-05-31 17:08:40.201 [ERROR] java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+2013-05-31 17:12:37.433 [ERROR] java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+2013-05-31 17:18:02.563 [ERROR] java.lang.NullPointerException
+2013-05-31 17:19:47.200 [ERROR] java.lang.NullPointerException
+2013-05-31 17:22:04.580 [ERROR] java.lang.NullPointerException
+2013-05-31 17:50:57.438 [ERROR] java.lang.NullPointerException
+2013-05-31 17:50:57.442 [ERROR] java.lang.NullPointerException
+2013-05-31 17:50:57.445 [ERROR] java.lang.NullPointerException
+2013-05-31 17:50:57.476 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 17:50:57.476 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 17:50:57.477 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 17:50:57.477 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 17:50:57.477 [ERROR] java.lang.NullPointerException
+2013-05-31 17:50:59.780 [ERROR] java.lang.NullPointerException
+2013-05-31 17:50:59.782 [ERROR] java.lang.NullPointerException
+2013-05-31 17:50:59.783 [ERROR] java.lang.NullPointerException
+2013-05-31 17:50:59.810 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 17:50:59.811 [ERROR] java.io.FileNotFoundException: null\cobertura.json (The system cannot find the path specified)
+2013-05-31 17:50:59.811 [ERROR] java.io.FileNotFoundException: null\extractor-0.0.1-SNAPSHOT.jar.json (The system cannot find the path specified)
+2013-05-31 17:50:59.811 [ERROR] java.io.FileNotFoundException: null\generated-classes.json (The system cannot find the path specified)
+2013-05-31 17:50:59.812 [ERROR] java.io.FileNotFoundException: null\maven-archiver.json (The system cannot find the path specified)
+2013-05-31 17:50:59.812 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 17:50:59.812 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 17:50:59.812 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 17:50:59.813 [ERROR] java.lang.NullPointerException
+2013-05-31 18:09:32.339 [ERROR] java.lang.NullPointerException
+2013-05-31 18:09:32.341 [ERROR] java.lang.NullPointerException
+2013-05-31 18:09:32.341 [ERROR] java.lang.NullPointerException
+2013-05-31 18:09:32.368 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 18:09:32.368 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 18:09:32.368 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 18:09:32.368 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 18:09:32.368 [ERROR] java.lang.NullPointerException
+2013-05-31 18:10:58.442 [ERROR] java.lang.NullPointerException
+2013-05-31 18:10:58.444 [ERROR] java.lang.NullPointerException
+2013-05-31 18:10:58.444 [ERROR] java.lang.NullPointerException
+2013-05-31 18:10:58.471 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 18:10:58.472 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 18:10:58.472 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 18:10:58.472 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 18:10:58.472 [ERROR] java.lang.NullPointerException
+2013-05-31 18:11:00.598 [ERROR] java.lang.NullPointerException
+2013-05-31 18:11:00.600 [ERROR] java.lang.NullPointerException
+2013-05-31 18:11:00.601 [ERROR] java.lang.NullPointerException
+2013-05-31 18:11:00.627 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 18:11:00.628 [ERROR] java.io.FileNotFoundException: null\cobertura.json (The system cannot find the path specified)
+2013-05-31 18:11:00.628 [ERROR] java.io.FileNotFoundException: null\extractor-0.0.1-SNAPSHOT.jar.json (The system cannot find the path specified)
+2013-05-31 18:11:00.628 [ERROR] java.io.FileNotFoundException: null\generated-classes.json (The system cannot find the path specified)
+2013-05-31 18:11:00.629 [ERROR] java.io.FileNotFoundException: null\maven-archiver.json (The system cannot find the path specified)
+2013-05-31 18:11:00.629 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 18:11:00.629 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 18:11:00.630 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 18:11:00.630 [ERROR] java.lang.NullPointerException
+2013-05-31 18:56:23.809 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 18:56:38.708 [ERROR] java.io.FileNotFoundException: E:\work_dir\my_staff\juno_workspace\extractor\..\test\resource\Open_Mobile_Client_Help.chm (The system cannot find the path specified)
+2013-05-31 18:57:02.976 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 18:57:02.981 [ERROR] java.io.FileNotFoundException: E:\work_dir\my_staff\juno_workspace\extractor\resource\Open_Mobile_Client_Help.chm (The system cannot find the path specified)
+2013-05-31 18:57:14.634 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 18:57:14.640 [ERROR] java.io.FileNotFoundException: E:\work_dir\my_staff\juno_workspace\extractor\Open_Mobile_Client_Help.chm (The system cannot find the file specified)
+2013-05-31 18:58:02.131 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 18:58:02.221 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:00:41.840 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:01:00.320 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:01:00.370 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:07:26.374 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:07:26.424 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:09:32.293 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:09:32.344 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:09:32.349 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:09:32.353 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:11:14.925 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:11:14.977 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:11:14.983 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:11:33.502 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:11:39.016 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:12:22.850 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:12:23.189 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:15:45.890 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:15:46.328 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:17:59.686 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:18:00.034 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:18:00.126 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:18:00.370 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:18:00.373 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:18:45.239 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:18:45.290 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:18:45.295 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:18:45.299 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:18:45.305 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:18:45.308 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:18:45.312 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:18:45.315 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:18:58.426 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:18:58.475 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:18:58.481 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:18:58.484 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:18:58.490 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:18:58.494 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:18:58.497 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:18:58.500 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:19:47.014 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:19:47.064 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:19:47.070 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:19:47.073 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:19:47.079 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:19:47.082 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:19:47.086 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:19:47.089 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:21:17.096 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:21:17.153 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:21:17.158 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:21:17.162 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:21:17.168 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:21:17.171 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:21:17.174 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:21:17.177 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:21:40.602 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:21:40.652 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:21:40.658 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:21:40.662 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:21:40.668 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:21:40.671 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:21:40.675 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:21:40.678 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:21:55.466 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:21:55.517 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:21:55.523 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:21:55.526 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:21:55.532 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:21:55.535 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:21:55.538 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:21:55.542 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:22:03.458 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:22:03.509 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:22:03.515 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:22:03.518 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:25:07.876 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:25:07.927 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 19:25:07.942 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:25:08.232 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:25:08.434 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:27:31.737 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:27:32.081 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:27:32.173 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:27:32.349 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:29:43.302 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:29:43.640 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:29:43.733 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:29:44.157 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:29:55.455 [ERROR] java.io.FileNotFoundException: extracted_files\target (The system cannot find the path specified)
+2013-05-31 19:29:55.647 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:29:55.915 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:29:56.004 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:29:56.149 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:29:56.495 [ERROR] java.lang.NullPointerException
+2013-05-31 19:29:56.496 [ERROR] java.lang.NullPointerException
+2013-05-31 19:29:56.496 [ERROR] java.lang.NullPointerException
+2013-05-31 19:29:56.519 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 19:29:56.520 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 19:29:56.520 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 19:29:56.520 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 19:29:56.520 [ERROR] java.lang.NullPointerException
+2013-05-31 19:29:58.355 [ERROR] java.io.FileNotFoundException: extracted_files\target (The system cannot find the path specified)
+2013-05-31 19:29:58.550 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:29:58.817 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:29:58.912 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:29:59.055 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:29:59.399 [ERROR] java.lang.NullPointerException
+2013-05-31 19:29:59.400 [ERROR] java.lang.NullPointerException
+2013-05-31 19:29:59.401 [ERROR] java.lang.NullPointerException
+2013-05-31 19:29:59.425 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 19:29:59.425 [ERROR] java.io.FileNotFoundException: null\cobertura.json (The system cannot find the path specified)
+2013-05-31 19:29:59.426 [ERROR] java.io.FileNotFoundException: null\extractor-0.0.1-SNAPSHOT.jar.json (The system cannot find the path specified)
+2013-05-31 19:29:59.426 [ERROR] java.io.FileNotFoundException: null\generated-classes.json (The system cannot find the path specified)
+2013-05-31 19:29:59.426 [ERROR] java.io.FileNotFoundException: null\maven-archiver.json (The system cannot find the path specified)
+2013-05-31 19:29:59.426 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 19:29:59.427 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 19:29:59.427 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 19:29:59.427 [ERROR] java.lang.NullPointerException
+2013-05-31 19:35:59.424 [ERROR] java.io.FileNotFoundException: extracted_files\target (The system cannot find the path specified)
+2013-05-31 19:35:59.617 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:35:59.881 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:35:59.970 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:36:00.111 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:36:00.460 [ERROR] java.lang.NullPointerException
+2013-05-31 19:36:00.462 [ERROR] java.lang.NullPointerException
+2013-05-31 19:36:00.464 [ERROR] java.lang.NullPointerException
+2013-05-31 19:36:00.487 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 19:36:00.488 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 19:36:00.488 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 19:36:00.488 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 19:36:00.489 [ERROR] java.lang.NullPointerException
+2013-05-31 19:36:02.272 [ERROR] java.io.FileNotFoundException: extracted_files\target (The system cannot find the path specified)
+2013-05-31 19:36:02.471 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:36:02.742 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:36:02.834 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:36:02.981 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:36:03.326 [ERROR] java.lang.NullPointerException
+2013-05-31 19:36:03.327 [ERROR] java.lang.NullPointerException
+2013-05-31 19:36:03.328 [ERROR] java.lang.NullPointerException
+2013-05-31 19:36:03.351 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 19:36:03.351 [ERROR] java.io.FileNotFoundException: null\cobertura.json (The system cannot find the path specified)
+2013-05-31 19:36:03.352 [ERROR] java.io.FileNotFoundException: null\extractor-0.0.1-SNAPSHOT.jar.json (The system cannot find the path specified)
+2013-05-31 19:36:03.352 [ERROR] java.io.FileNotFoundException: null\generated-classes.json (The system cannot find the path specified)
+2013-05-31 19:36:03.352 [ERROR] java.io.FileNotFoundException: null\maven-archiver.json (The system cannot find the path specified)
+2013-05-31 19:36:03.352 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 19:36:03.353 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 19:36:03.353 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 19:36:03.353 [ERROR] java.lang.NullPointerException
+2013-05-31 19:45:09.517 [ERROR] java.io.FileNotFoundException: extracted_files\target (The system cannot find the path specified)
+2013-05-31 19:45:09.720 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:45:09.987 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:45:10.078 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:45:10.220 [ INFO] Going to extract=README
+2013-05-31 19:45:10.222 [ERROR] detected text/plain mime-type. The file E:\work_dir\my_staff\juno_workspace\extractor\src\test\resource\README.txt won't be processed
+2013-05-31 19:45:10.225 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:45:10.576 [ERROR] java.lang.NullPointerException
+2013-05-31 19:45:10.577 [ERROR] java.lang.NullPointerException
+2013-05-31 19:45:10.579 [ERROR] java.lang.NullPointerException
+2013-05-31 19:45:10.604 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 19:45:10.604 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 19:45:10.605 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 19:45:10.605 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 19:45:10.605 [ERROR] java.lang.NullPointerException
+2013-05-31 19:48:48.145 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:48:48.481 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:48:48.572 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:48:48.716 [ INFO] Going to extract=README
+2013-05-31 19:48:48.717 [ERROR] detected text/plain mime-type. The file E:\work_dir\my_staff\juno_workspace\extractor\src\test\resource\README.txt won't be processed
+2013-05-31 19:48:48.721 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:55:17.492 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:55:17.907 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:55:18.011 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:57:59.465 [ INFO] Going to extract=README
+2013-05-31 19:58:07.126 [ERROR] detected text/plain mime-type. The file E:\work_dir\my_staff\juno_workspace\extractor\src\test\resource\README.txt won't be processed
+2013-05-31 19:58:11.478 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:59:01.483 [ERROR] java.io.FileNotFoundException: extracted_files\target (The system cannot find the path specified)
+2013-05-31 19:59:01.680 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:59:01.942 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:59:02.031 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:59:02.168 [ INFO] Going to extract=README
+2013-05-31 19:59:02.170 [ERROR] detected text/plain mime-type. The file E:\work_dir\my_staff\juno_workspace\extractor\src\test\resource\README.txt won't be processed
+2013-05-31 19:59:02.171 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:59:02.520 [ERROR] java.lang.NullPointerException
+2013-05-31 19:59:02.522 [ERROR] java.lang.NullPointerException
+2013-05-31 19:59:02.523 [ERROR] java.lang.NullPointerException
+2013-05-31 19:59:02.548 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 19:59:02.548 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 19:59:02.548 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 19:59:02.548 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 19:59:02.549 [ERROR] java.lang.NullPointerException
+2013-05-31 19:59:05.506 [ERROR] java.io.FileNotFoundException: extracted_files\target (The system cannot find the path specified)
+2013-05-31 19:59:05.718 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:59:05.992 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:59:06.092 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:59:06.255 [ INFO] Going to extract=README
+2013-05-31 19:59:06.257 [ERROR] detected text/plain mime-type. The file E:\work_dir\my_staff\juno_workspace\extractor\src\test\resource\README.txt won't be processed
+2013-05-31 19:59:06.259 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 19:59:06.612 [ERROR] java.lang.NullPointerException
+2013-05-31 19:59:06.613 [ERROR] java.lang.NullPointerException
+2013-05-31 19:59:06.614 [ERROR] java.lang.NullPointerException
+2013-05-31 19:59:06.637 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 19:59:06.637 [ERROR] java.io.FileNotFoundException: null\cobertura.json (The system cannot find the path specified)
+2013-05-31 19:59:06.638 [ERROR] java.io.FileNotFoundException: null\extractor-0.0.1-SNAPSHOT.jar.json (The system cannot find the path specified)
+2013-05-31 19:59:06.638 [ERROR] java.io.FileNotFoundException: null\generated-classes.json (The system cannot find the path specified)
+2013-05-31 19:59:06.638 [ERROR] java.io.FileNotFoundException: null\maven-archiver.json (The system cannot find the path specified)
+2013-05-31 19:59:06.639 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 19:59:06.639 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 19:59:06.639 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 19:59:06.639 [ERROR] java.lang.NullPointerException
+2013-05-31 20:01:17.937 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 20:01:18.283 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 20:01:18.377 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 20:01:18.573 [ INFO] Going to extract=README
+2013-05-31 20:01:18.575 [ERROR] detected text/plain mime-type. The file E:\work_dir\my_staff\juno_workspace\extractor\src\test\resource\README.txt won't be processed
+2013-05-31 20:01:18.576 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 20:01:18.652 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 20:01:18.655 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 20:01:33.550 [ERROR] java.io.FileNotFoundException: extracted_files\target (The system cannot find the path specified)
+2013-05-31 20:01:33.739 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 20:01:34.015 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 20:01:34.107 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 20:01:34.257 [ INFO] Going to extract=README
+2013-05-31 20:01:34.258 [ERROR] detected text/plain mime-type. The file E:\work_dir\my_staff\juno_workspace\extractor\src\test\resource\README.txt won't be processed
+2013-05-31 20:01:34.260 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 20:01:34.345 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 20:01:34.348 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 20:01:34.608 [ERROR] java.lang.NullPointerException
+2013-05-31 20:01:34.609 [ERROR] java.lang.NullPointerException
+2013-05-31 20:01:34.610 [ERROR] java.lang.NullPointerException
+2013-05-31 20:01:34.633 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 20:01:34.633 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 20:01:34.633 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 20:01:34.633 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 20:01:34.634 [ERROR] java.lang.NullPointerException
+2013-05-31 20:01:36.475 [ERROR] java.io.FileNotFoundException: extracted_files\target (The system cannot find the path specified)
+2013-05-31 20:01:36.672 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 20:01:36.945 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 20:01:37.039 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 20:01:37.182 [ INFO] Going to extract=README
+2013-05-31 20:01:37.184 [ERROR] detected text/plain mime-type. The file E:\work_dir\my_staff\juno_workspace\extractor\src\test\resource\README.txt won't be processed
+2013-05-31 20:01:37.186 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 20:01:37.286 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 20:01:37.289 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 20:01:37.545 [ERROR] java.lang.NullPointerException
+2013-05-31 20:01:37.546 [ERROR] java.lang.NullPointerException
+2013-05-31 20:01:37.547 [ERROR] java.lang.NullPointerException
+2013-05-31 20:01:37.571 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 20:01:37.571 [ERROR] java.io.FileNotFoundException: null\cobertura.json (The system cannot find the path specified)
+2013-05-31 20:01:37.571 [ERROR] java.io.FileNotFoundException: null\extractor-0.0.1-SNAPSHOT.jar.json (The system cannot find the path specified)
+2013-05-31 20:01:37.571 [ERROR] java.io.FileNotFoundException: null\generated-classes.json (The system cannot find the path specified)
+2013-05-31 20:01:37.572 [ERROR] java.io.FileNotFoundException: null\maven-archiver.json (The system cannot find the path specified)
+2013-05-31 20:01:37.572 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 20:01:37.572 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 20:01:37.572 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 20:01:37.573 [ERROR] java.lang.NullPointerException
+2013-05-31 20:41:44.332 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 20:41:44.672 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 20:41:44.773 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 20:41:44.963 [ INFO] Going to extract=README
+2013-05-31 20:41:44.963 [ERROR] detected text/plain mime-type. The file E:\work_dir\my_staff\juno_workspace\extractor\src\test\resource\README.txt won't be processed
+2013-05-31 20:41:44.963 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 20:41:45.043 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 20:41:45.043 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 20:50:06.917 [ERROR] java.io.FileNotFoundException: extracted_files\target (The system cannot find the path specified)
+2013-05-31 20:50:07.127 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 20:50:07.393 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 20:50:07.483 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 20:50:07.623 [ INFO] Going to extract=README
+2013-05-31 20:50:07.623 [ERROR] detected text/plain mime-type. The file E:\work_dir\my_staff\juno_workspace\extractor\src\test\resource\README.txt won't be processed
+2013-05-31 20:50:07.623 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 20:50:07.713 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 20:50:07.713 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 20:50:07.963 [ERROR] java.lang.NullPointerException
+2013-05-31 20:50:07.963 [ERROR] java.lang.NullPointerException
+2013-05-31 20:50:07.963 [ERROR] java.lang.NullPointerException
+2013-05-31 20:50:07.993 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 20:50:07.993 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 20:50:07.993 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 20:50:07.993 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 20:50:07.993 [ERROR] java.lang.NullPointerException
+2013-05-31 20:50:09.597 [ERROR] java.io.FileNotFoundException: extracted_files\target (The system cannot find the path specified)
+2013-05-31 20:50:09.797 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 20:50:10.057 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 20:50:10.157 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 20:50:10.297 [ INFO] Going to extract=README
+2013-05-31 20:50:10.297 [ERROR] detected text/plain mime-type. The file E:\work_dir\my_staff\juno_workspace\extractor\src\test\resource\README.txt won't be processed
+2013-05-31 20:50:10.297 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 20:50:10.387 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 20:50:10.387 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 20:50:10.637 [ERROR] java.lang.NullPointerException
+2013-05-31 20:50:10.637 [ERROR] java.lang.NullPointerException
+2013-05-31 20:50:10.637 [ERROR] java.lang.NullPointerException
+2013-05-31 20:50:10.667 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 20:50:10.667 [ERROR] java.io.FileNotFoundException: null\cobertura.json (The system cannot find the path specified)
+2013-05-31 20:50:10.667 [ERROR] java.io.FileNotFoundException: null\extractor-0.0.1-SNAPSHOT.jar.json (The system cannot find the path specified)
+2013-05-31 20:50:10.667 [ERROR] java.io.FileNotFoundException: null\generated-classes.json (The system cannot find the path specified)
+2013-05-31 20:50:10.667 [ERROR] java.io.FileNotFoundException: null\maven-archiver.json (The system cannot find the path specified)
+2013-05-31 20:50:10.667 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 20:50:10.667 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 20:50:10.667 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 20:50:10.667 [ERROR] java.lang.NullPointerException
+2013-05-31 21:02:03.337 [ERROR] java.io.FileNotFoundException: extracted_files\target (The system cannot find the path specified)
+2013-05-31 21:02:03.527 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:02:03.797 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:02:03.887 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:02:04.017 [ INFO] Going to extract=README
+2013-05-31 21:02:04.027 [ERROR] detected text/plain mime-type. The file E:\work_dir\my_staff\juno_workspace\extractor\src\test\resource\README.txt won't be processed
+2013-05-31 21:02:04.027 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:02:04.107 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:02:04.117 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 21:02:04.367 [ERROR] java.lang.NullPointerException
+2013-05-31 21:02:04.367 [ERROR] java.lang.NullPointerException
+2013-05-31 21:02:04.367 [ERROR] java.lang.NullPointerException
+2013-05-31 21:02:04.387 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 21:02:04.387 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 21:02:04.387 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 21:02:04.387 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 21:02:04.387 [ERROR] java.lang.NullPointerException
+2013-05-31 21:02:05.997 [ERROR] java.io.FileNotFoundException: extracted_files\target (The system cannot find the path specified)
+2013-05-31 21:02:06.187 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:02:06.457 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:02:06.547 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:02:06.697 [ INFO] Going to extract=README
+2013-05-31 21:02:06.697 [ERROR] detected text/plain mime-type. The file E:\work_dir\my_staff\juno_workspace\extractor\src\test\resource\README.txt won't be processed
+2013-05-31 21:02:06.697 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:02:06.787 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:02:06.797 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 21:02:07.047 [ERROR] java.lang.NullPointerException
+2013-05-31 21:02:07.047 [ERROR] java.lang.NullPointerException
+2013-05-31 21:02:07.047 [ERROR] java.lang.NullPointerException
+2013-05-31 21:02:07.067 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 21:02:07.067 [ERROR] java.io.FileNotFoundException: null\cobertura.json (The system cannot find the path specified)
+2013-05-31 21:02:07.067 [ERROR] java.io.FileNotFoundException: null\extractor-0.0.1-SNAPSHOT.jar.json (The system cannot find the path specified)
+2013-05-31 21:02:07.067 [ERROR] java.io.FileNotFoundException: null\generated-classes.json (The system cannot find the path specified)
+2013-05-31 21:02:07.067 [ERROR] java.io.FileNotFoundException: null\maven-archiver.json (The system cannot find the path specified)
+2013-05-31 21:02:07.077 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 21:02:07.077 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 21:02:07.077 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 21:02:07.077 [ERROR] java.lang.NullPointerException
+2013-05-31 21:32:26.641 [ERROR] java.io.FileNotFoundException: extracted_files\target (The system cannot find the path specified)
+2013-05-31 21:32:26.831 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:32:27.111 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:32:27.191 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:32:27.351 [ INFO] Going to extract=README
+2013-05-31 21:32:27.351 [ERROR] detected text/plain mime-type. The file E:\work_dir\my_staff\juno_workspace\extractor\src\test\resource\README.txt won't be processed
+2013-05-31 21:32:27.361 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:32:27.431 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:32:27.441 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 21:32:27.601 [ERROR] java.lang.NullPointerException
+2013-05-31 21:32:27.603 [ERROR] java.lang.NullPointerException
+2013-05-31 21:32:27.605 [ERROR] java.lang.NullPointerException
+2013-05-31 21:32:27.624 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 21:32:27.625 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 21:32:27.625 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 21:32:27.625 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 21:32:27.625 [ERROR] java.lang.NullPointerException
+2013-05-31 21:32:29.440 [ERROR] java.io.FileNotFoundException: extracted_files\target (The system cannot find the path specified)
+2013-05-31 21:32:29.620 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:32:29.890 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:32:29.980 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:32:30.160 [ INFO] Going to extract=README
+2013-05-31 21:32:30.160 [ERROR] detected text/plain mime-type. The file E:\work_dir\my_staff\juno_workspace\extractor\src\test\resource\README.txt won't be processed
+2013-05-31 21:32:30.160 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:32:30.230 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:32:30.240 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 21:32:30.380 [ERROR] java.lang.NullPointerException
+2013-05-31 21:32:30.380 [ERROR] java.lang.NullPointerException
+2013-05-31 21:32:30.380 [ERROR] java.lang.NullPointerException
+2013-05-31 21:32:30.400 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 21:32:30.400 [ERROR] java.io.FileNotFoundException: null\cobertura.json (The system cannot find the path specified)
+2013-05-31 21:32:30.400 [ERROR] java.io.FileNotFoundException: null\extractor-0.0.1-SNAPSHOT.jar.json (The system cannot find the path specified)
+2013-05-31 21:32:30.400 [ERROR] java.io.FileNotFoundException: null\generated-classes.json (The system cannot find the path specified)
+2013-05-31 21:32:30.400 [ERROR] java.io.FileNotFoundException: null\maven-archiver.json (The system cannot find the path specified)
+2013-05-31 21:32:30.400 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 21:32:30.400 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 21:32:30.400 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 21:32:30.400 [ERROR] java.lang.NullPointerException
+2013-05-31 21:37:20.893 [ERROR] java.io.FileNotFoundException: extracted_files\target (The system cannot find the path specified)
+2013-05-31 21:37:21.073 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:37:21.343 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:37:21.433 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:37:21.583 [ INFO] Going to extract=README
+2013-05-31 21:37:21.583 [ERROR] detected text/plain mime-type. The file E:\work_dir\my_staff\juno_workspace\extractor\src\test\resource\README.txt won't be processed
+2013-05-31 21:37:21.593 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:37:21.663 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:37:21.673 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 21:37:21.823 [ERROR] java.lang.NullPointerException
+2013-05-31 21:37:21.823 [ERROR] java.lang.NullPointerException
+2013-05-31 21:37:21.823 [ERROR] java.lang.NullPointerException
+2013-05-31 21:37:21.843 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 21:37:21.843 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 21:37:21.843 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 21:37:21.843 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 21:37:21.843 [ERROR] java.lang.NullPointerException
+2013-05-31 21:37:23.572 [ERROR] java.io.FileNotFoundException: extracted_files\target (The system cannot find the path specified)
+2013-05-31 21:37:23.752 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:37:24.022 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:37:24.112 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:37:24.302 [ INFO] Going to extract=README
+2013-05-31 21:37:24.302 [ERROR] detected text/plain mime-type. The file E:\work_dir\my_staff\juno_workspace\extractor\src\test\resource\README.txt won't be processed
+2013-05-31 21:37:24.302 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:37:24.375 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:37:24.378 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 21:37:24.531 [ERROR] java.lang.NullPointerException
+2013-05-31 21:37:24.531 [ERROR] java.lang.NullPointerException
+2013-05-31 21:37:24.531 [ERROR] java.lang.NullPointerException
+2013-05-31 21:37:24.551 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 21:37:24.551 [ERROR] java.io.FileNotFoundException: null\cobertura.json (The system cannot find the path specified)
+2013-05-31 21:37:24.551 [ERROR] java.io.FileNotFoundException: null\extractor-0.0.1-SNAPSHOT.jar.json (The system cannot find the path specified)
+2013-05-31 21:37:24.551 [ERROR] java.io.FileNotFoundException: null\generated-classes.json (The system cannot find the path specified)
+2013-05-31 21:37:24.551 [ERROR] java.io.FileNotFoundException: null\maven-archiver.json (The system cannot find the path specified)
+2013-05-31 21:37:24.551 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 21:37:24.551 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 21:37:24.551 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 21:37:24.551 [ERROR] java.lang.NullPointerException
+2013-05-31 21:41:06.388 [ERROR] java.io.FileNotFoundException: extracted_files\target (The system cannot find the path specified)
+2013-05-31 21:41:06.568 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:41:06.838 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:41:06.928 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:41:07.078 [ INFO] Going to extract=README
+2013-05-31 21:41:07.078 [ERROR] detected text/plain mime-type. The file E:\work_dir\my_staff\juno_workspace\extractor\src\test\resource\README.txt won't be processed
+2013-05-31 21:41:07.088 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:41:07.148 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:41:07.158 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 21:41:07.317 [ERROR] java.lang.NullPointerException
+2013-05-31 21:41:07.319 [ERROR] java.lang.NullPointerException
+2013-05-31 21:41:07.321 [ERROR] java.lang.NullPointerException
+2013-05-31 21:41:07.342 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 21:41:07.342 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 21:41:07.342 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 21:41:07.343 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 21:41:07.343 [ERROR] java.lang.NullPointerException
+2013-05-31 21:41:09.209 [ERROR] java.io.FileNotFoundException: extracted_files\target (The system cannot find the path specified)
+2013-05-31 21:41:09.400 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:41:09.680 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:41:09.770 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:41:09.950 [ INFO] Going to extract=README
+2013-05-31 21:41:09.950 [ERROR] detected text/plain mime-type. The file E:\work_dir\my_staff\juno_workspace\extractor\src\test\resource\README.txt won't be processed
+2013-05-31 21:41:09.950 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:41:10.020 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:41:10.020 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 21:41:10.170 [ERROR] java.lang.NullPointerException
+2013-05-31 21:41:10.180 [ERROR] java.lang.NullPointerException
+2013-05-31 21:41:10.180 [ERROR] java.lang.NullPointerException
+2013-05-31 21:41:10.190 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 21:41:10.190 [ERROR] java.io.FileNotFoundException: null\cobertura.json (The system cannot find the path specified)
+2013-05-31 21:41:10.200 [ERROR] java.io.FileNotFoundException: null\extractor-0.0.1-SNAPSHOT.jar.json (The system cannot find the path specified)
+2013-05-31 21:41:10.200 [ERROR] java.io.FileNotFoundException: null\generated-classes.json (The system cannot find the path specified)
+2013-05-31 21:41:10.200 [ERROR] java.io.FileNotFoundException: null\maven-archiver.json (The system cannot find the path specified)
+2013-05-31 21:41:10.200 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 21:41:10.200 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 21:41:10.200 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 21:41:10.200 [ERROR] java.lang.NullPointerException
+2013-05-31 21:42:09.952 [ERROR] java.io.FileNotFoundException: extracted_files\target (The system cannot find the path specified)
+2013-05-31 21:42:10.132 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:42:10.392 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:42:10.482 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:42:10.642 [ INFO] Going to extract=README
+2013-05-31 21:42:10.642 [ERROR] detected text/plain mime-type. The file E:\work_dir\my_staff\juno_workspace\extractor\src\test\resource\README.txt won't be processed
+2013-05-31 21:42:10.642 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:42:10.722 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 21:42:10.722 [ WARN] Folder for Open_Mobile_Client_Help exists, it means that context was extracted some time ago. Please delete folder in order to reextract context
+2013-05-31 21:42:10.882 [ERROR] java.lang.NullPointerException
+2013-05-31 21:42:10.882 [ERROR] java.lang.NullPointerException
+2013-05-31 21:42:10.882 [ERROR] java.lang.NullPointerException
+2013-05-31 21:42:10.902 [ERROR] java.io.FileNotFoundException: null\classes.json (The system cannot find the path specified)
+2013-05-31 21:42:10.902 [ERROR] java.io.FileNotFoundException: null\surefire.json (The system cannot find the path specified)
+2013-05-31 21:42:10.902 [ERROR] java.io.FileNotFoundException: null\surefire-reports.json (The system cannot find the path specified)
+2013-05-31 21:42:10.902 [ERROR] java.io.FileNotFoundException: null\test-classes.json (The system cannot find the path specified)
+2013-05-31 21:42:10.902 [ERROR] java.lang.NullPointerException
+2013-05-31 21:46:55.188 [DEBUG] REQ_URL=/favicon.ico
+2013-05-31 22:00:31.030 [DEBUG] REQ_URL=/help
+2013-05-31 22:00:31.032 [ERROR] java.io.IOException: Closed
+2013-05-31 22:00:34.897 [DEBUG] REQ_URL=/help2
+2013-05-31 22:02:20.952 [DEBUG] REQ_URL=/extract/directory/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm
+2013-05-31 22:02:21.082 [ INFO] Going to extract=.NETFramework40BlendSDK
+2013-05-31 22:02:29.069 [ INFO] Going to extract=3D8F0F54C2CEF6D7EB45180C37B703261767C923_Open_Mobile_Client_Help
+2013-05-31 22:02:29.159 [ INFO] Going to extract=7-zip
+2013-05-31 22:02:29.309 [ INFO] Going to extract=aclui
+2013-05-31 22:02:29.419 [ INFO] Going to extract=americano_remixx
+2013-05-31 22:02:29.419 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\americano_remixx.wav won't be processed
+2013-05-31 22:02:29.429 [ INFO] Going to extract=galaxy_s4
+2013-05-31 22:02:29.429 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\galaxy_s4.wav won't be processed
+2013-05-31 22:02:29.429 [ INFO] Going to extract=house_of_the_rising
+2013-05-31 22:02:29.429 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\house_of_the_rising.wav won't be processed
+2013-05-31 22:02:29.429 [ INFO] Going to extract=natures_call
+2013-05-31 22:02:29.429 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\natures_call.wav won't be processed
+2013-05-31 22:02:29.429 [ INFO] Going to extract=old_telephone
+2013-05-31 22:02:29.429 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\old_telephone.wav won't be processed
+2013-05-31 22:02:29.429 [ INFO] Going to extract=Open_Mobile_Client_Help
+2013-05-31 22:02:29.539 [ INFO] Going to extract=python274
+2013-05-31 22:02:36.060 [ INFO] Going to extract=st_oi
+2013-05-31 22:02:36.240 [ INFO] Going to extract=st_oi_ja
+2013-05-31 22:02:36.550 [ INFO] Going to extract=st_oi_ko
+2013-05-31 22:02:36.670 [ INFO] Going to extract=titanic
+2013-05-31 22:02:36.670 [ERROR] detected audio/x-wav mime-type. The file C:\Users\otikhono\Desktop\chm\titanic.wav won't be processed
+2013-05-31 22:02:36.670 [ INFO] Going to extract=TPOG
+2013-05-31 22:04:33.786 [DEBUG] REQ_URL=/extract/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5C7-zip.chm
+2013-05-31 22:04:33.796 [ INFO] Going to extract=7-zip
+2013-05-31 22:04:49.978 [DEBUG] REQ_URL=/metadata/file/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm%5Cpython274.chm
+2013-05-31 22:04:49.988 [ INFO] Going to extract=python274
