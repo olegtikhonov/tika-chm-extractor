@@ -6,7 +6,7 @@ As Apache project it cannot use LGPL 2.1 licence. However if it's not your conce
 
 ### Extract files from directory:
 ```
-curl -G http://localhost:8080//extract/directory/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm
+curl -G http://localhost:8080/extract/directory/C:%5CUsers%5Cotikhono%5CDesktop%5Cchm
 ```
 
 ### Extract single file:
