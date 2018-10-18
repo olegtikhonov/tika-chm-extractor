@@ -14,171 +14,164 @@
 
 package org.ocrix.chm.server.command;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import org.ocrix.chm.extractor.ChmSevenZipExtractor;
+import org.ocrix.chm.extractor.common.*;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
 import java.io.File;
 import java.io.IOException;
 import java.net.URLDecoder;
 import java.util.concurrent.locks.ReentrantLock;
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
-import org.apache.log4j.Logger;
-import org.ocrix.chm.extractor.ChmSevenZipExtractor;
-import org.ocrix.chm.extractor.common.CommonConstants;
-import org.ocrix.chm.extractor.common.FileNode;
-import org.ocrix.chm.extractor.common.JsonSerializer;
-import org.ocrix.chm.extractor.common.MimeType;
-import org.ocrix.chm.extractor.common.Utility;
 
 
 /**
  * Extracts metadata from the chm file.
  */
 public enum MetadataFileExtractor implements Command {
-	INSTANCE;
-	
-	private volatile HttpServletRequest request;
-	private volatile HttpServletResponse response;
-	private ChmSevenZipExtractor chmExtractor;
-	private JsonSerializer serializer = new JsonSerializer();
-	private static final Logger LOG = Logger.getLogger(MetadataFileExtractor.class);
-	private ReentrantLock lifecicle = new ReentrantLock();
+    INSTANCE;
 
-	/**
-	 * Constructs {@link MetadataFileExtractor} privately. 
-	 */
-	private MetadataFileExtractor(){}
-	
-	/**
-	 * Extracts metadata from chm file.
-	 */
-	public void execute() {
-		lifecicle.lock();
-		
-		
-		response.setContentType(MimeType.JSON.to());
-		response.setCharacterEncoding(CommonConstants.DEFAULT_CHARSET.to());
-		
-		try {
-			int index = URLDecoder.decode(request.getRequestURI(), CommonConstants.DEFAULT_CHARSET.to()).indexOf("file/");
-			
-			String pathToTheFile = URLDecoder.decode(getRequest().getRequestURI(), CommonConstants.DEFAULT_CHARSET.to()).substring(index + "file/".length());
-			
-			String data = extractMetadata(pathToTheFile);
-			
-			sendResponse(data, pathToTheFile);
+    private volatile HttpServletRequest request;
+    private volatile HttpServletResponse response;
+    private ChmSevenZipExtractor chmExtractor;
+    private JsonSerializer serializer = new JsonSerializer();
+    private static final Logger LOG = LogManager.getLogger(MetadataFileExtractor.class);
+    private ReentrantLock lifecicle = new ReentrantLock();
 
-		} catch (Exception e) {
-			LOG.error(e);
-		}
-		
-		lifecicle.unlock();
-	}
+    /**
+     * Constructs {@link MetadataFileExtractor} privately.
+     */
+    private MetadataFileExtractor() {
+    }
 
-	/**
-	 * Gets {@link HttpServletRequest}.
-	 * 
-	 * @return a request.
-	 */
-	public HttpServletRequest getRequest() {
-		return request;
-	}
+    /**
+     * Extracts metadata from chm file.
+     */
+    public void execute() {
+        lifecicle.lock();
+
+        response.setContentType(MimeType.JSON.to());
+        response.setCharacterEncoding(CommonConstants.DEFAULT_CHARSET.to());
+
+        try {
+            int index = URLDecoder.decode(request.getRequestURI(), CommonConstants.DEFAULT_CHARSET.to()).indexOf("file/");
+            String pathToTheFile = URLDecoder.decode(getRequest().getRequestURI(), CommonConstants.DEFAULT_CHARSET.to()).substring(index + "file/".length());
+            String data = extractMetadata(pathToTheFile);
+            sendResponse(data, pathToTheFile);
+        } catch (Exception e) {
+            LOG.error(e);
+        }
+
+        lifecicle.unlock();
+    }
+
+    /**
+     * Gets {@link HttpServletRequest}.
+     *
+     * @return a request.
+     */
+    public HttpServletRequest getRequest() {
+        return request;
+    }
 
 
-	/**
-	 * Sets an {@link HttpServletRequest}.
-	 * 
-	 * @param request to be set.
-	 */
-	public void setRequest(HttpServletRequest request) {
-		this.request = request;
-	}
+    /**
+     * Sets an {@link HttpServletRequest}.
+     *
+     * @param request to be set.
+     */
+    public void setRequest(HttpServletRequest request) {
+        this.request = request;
+    }
 
-	/**
-	 * Gets an {@link HttpServletResponse}.
-	 * 
-	 * @return a response.
-	 */
-	public HttpServletResponse getResponse() {
-		return response;
-	}
+    /**
+     * Gets an {@link HttpServletResponse}.
+     *
+     * @return a response.
+     */
+    public HttpServletResponse getResponse() {
+        return response;
+    }
 
-	/**
-	 * Sets an {@link HttpServletResponse}.
-	 * 
-	 * @param response to be set.
-	 */
-	public void setResponse(HttpServletResponse response) {
-		this.response = response;
-	}
-	
-	/**
-	 * Gets a {@link ChmSevenZipExtractor}.
-	 * 
-	 * @return the extractor.
-	 */
-	public ChmSevenZipExtractor getChmExtractor() {
-		return chmExtractor;
-	}
+    /**
+     * Sets an {@link HttpServletResponse}.
+     *
+     * @param response to be set.
+     */
+    public void setResponse(HttpServletResponse response) {
+        this.response = response;
+    }
 
-	/**
-	 * Sets {@link ChmSevenZipExtractor}.
-	 * 
-	 * @param chmExtractor to be set.
-	 */
-	public void setChmExtractor(ChmSevenZipExtractor chmExtractor) {
-		this.chmExtractor = chmExtractor;
-	}
+    /**
+     * Gets a {@link ChmSevenZipExtractor}.
+     *
+     * @return the extractor.
+     */
+    public ChmSevenZipExtractor getChmExtractor() {
+        return chmExtractor;
+    }
 
-	/**
-	 * Extracts metadata.
-	 * 
-	 * @param pathToFile where file located.
-	 * 
-	 * @return extracted metadata for each html page inside chm.
-	 */
-	private String extractMetadata(String pathToFile){
-		String fn = "N/A";
-		
-		if(pathToFile != null){
-			fn = chmExtractor.extractMetadata(pathToFile);
-		}
+    /**
+     * Sets {@link ChmSevenZipExtractor}.
+     *
+     * @param chmExtractor to be set.
+     */
+    public void setChmExtractor(ChmSevenZipExtractor chmExtractor) {
+        this.chmExtractor = chmExtractor;
+    }
 
-		return fn;
-	}
-	
-	/**
-	 * Checks data consistency.
-	 * 
-	 * @param data to be checked.
-	 * @param filePath where to save data.
-	 */
-	private void sendResponse(String data, String filePath) {
-		try {
-			
-			String abPath = new File(getChmExtractor().getPathToExtractedFiles()).getAbsolutePath();
-			
-			String fileName = "";
+    /**
+     * Extracts metadata.
+     *
+     * @param pathToFile where file located.
+     * @return extracted metadata for each html page inside chm.
+     */
+    private String extractMetadata(String pathToFile) {
+        String fn = "N/A";
 
-			
-			if(filePath.contains(File.separator)){
-				fileName = filePath.substring(filePath.lastIndexOf(File.separator)).replace(CommonConstants.CHM.to(), "");
-			} else {
-				fileName = filePath.replace(CommonConstants.CHM.to(), "");
-			}
-			
-			
-			if(data == null) {
-				data = "Could not extract metadata because previously it was extracted. Delete " + abPath + fileName;
-				FileNode fn = new FileNode();
-				fn.setAdditionalInfo(data);
-				Utility.writeMessage(getResponse(), serializer.serialize(fn));
-			} else {
-				String json = serializer.serialize(data);
-				Utility.writeMessage(getResponse(), json);
-				Utility.saveMetadata(abPath + fileName, fileName, data);
-				
-			}
-		} catch (IOException e) {
-			LOG.error(e);
-		}
-	}
+        if (pathToFile != null) {
+            fn = chmExtractor.extractMetadata(pathToFile);
+        }
+
+        return fn;
+    }
+
+    /**
+     * Checks data consistency.
+     *
+     * @param data     to be checked.
+     * @param filePath where to save data.
+     */
+    private void sendResponse(String data, String filePath) {
+        try {
+
+            String abPath = new File(getChmExtractor().getPathToExtractedFiles()).getAbsolutePath();
+
+            String fileName = "";
+
+
+            if (filePath.contains(File.separator)) {
+                fileName = filePath.substring(filePath.lastIndexOf(File.separator)).replace(CommonConstants.CHM.to(), "");
+            } else {
+                fileName = filePath.replace(CommonConstants.CHM.to(), "");
+            }
+
+
+            if (data == null) {
+                data = "Could not extract metadata because previously it was extracted. Delete " + abPath + fileName;
+                FileNode fn = new FileNode();
+                fn.setAdditionalInfo(data);
+                Utility.writeMessage(getResponse(), serializer.serialize(fn));
+            } else {
+                String json = serializer.serialize(data);
+                Utility.writeMessage(getResponse(), json);
+                Utility.saveMetadata(abPath + fileName, fileName, data);
+
+            }
+        } catch (IOException e) {
+            LOG.error(e);
+        }
+    }
 }

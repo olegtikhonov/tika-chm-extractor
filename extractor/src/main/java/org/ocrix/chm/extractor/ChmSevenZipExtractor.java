@@ -14,21 +14,23 @@
 
 package org.ocrix.chm.extractor;
 
-import java.io.File;
-import java.io.IOException;
-import java.io.RandomAccessFile;
-import java.util.ArrayList;
-import java.util.List;
-import net.sf.sevenzipjbinding.ISevenZipInArchive;
+import net.sf.sevenzipjbinding.IInArchive;
 import net.sf.sevenzipjbinding.SevenZip;
 import net.sf.sevenzipjbinding.SevenZipException;
 import net.sf.sevenzipjbinding.impl.RandomAccessFileInStream;
 import net.sf.sevenzipjbinding.simple.ISimpleInArchive;
 import net.sf.sevenzipjbinding.simple.ISimpleInArchiveItem;
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.apache.tika.Tika;
 import org.apache.tika.metadata.Metadata;
 import org.ocrix.chm.extractor.common.FileNode;
+
+import java.io.File;
+import java.io.IOException;
+import java.io.RandomAccessFile;
+import java.util.ArrayList;
+import java.util.List;
 
 
 public class ChmSevenZipExtractor {
@@ -36,7 +38,7 @@ public class ChmSevenZipExtractor {
     private static final String CHM_EXTRACT_DIR = "extracted_files";
 	private List<byte[]> bb = new ArrayList<byte[]>();
 	private List<Metadata> metadataList = new ArrayList<Metadata>();
-	private static final Logger LOG = Logger.getLogger(ChmSevenZipExtractor.class);
+	private static final Logger LOG = LogManager.getLogger(ChmSevenZipExtractor.class);
 	private final Tika tika = new Tika();
 	private FileNode fn = new FileNode();
 	private StringBuilder sb = new StringBuilder();
@@ -74,7 +76,7 @@ public class ChmSevenZipExtractor {
 	
 	public FileNode extract(String pathToFile, boolean doSaveFiles) {
 		RandomAccessFile randomAccessFile = null;
-		ISevenZipInArchive inArchive = null;
+		IInArchive inArchive = null;
 		
 		String fileName = pathToFile.substring(pathToFile.lastIndexOf(File.separator) + 1, pathToFile.lastIndexOf("."));
 		
@@ -179,11 +181,10 @@ public class ChmSevenZipExtractor {
 	
 	/**
 	 * Closes the archive & rendom access file.
-	 * 
-	 * @param inArchive to be closed.
+	 *  @param inArchive to be closed.
 	 * @param randomAccessFile to be closed.
 	 */
-	private void takeCareOf(ISevenZipInArchive inArchive, RandomAccessFile randomAccessFile) {
+	private void takeCareOf(IInArchive inArchive, RandomAccessFile randomAccessFile) {
 		
 		if (inArchive != null) {
 			try {

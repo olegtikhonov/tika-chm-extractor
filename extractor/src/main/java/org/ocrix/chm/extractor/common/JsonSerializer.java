@@ -15,75 +15,58 @@
 
 package org.ocrix.chm.extractor.common;
 
-import org.codehaus.jackson.JsonGenerator;
-import org.codehaus.jackson.map.MappingJsonFactory;
-import org.codehaus.jackson.map.ObjectMapper;
-import static org.codehaus.jackson.map.SerializationConfig.Feature.WRITE_DATES_AS_TIMESTAMPS;
+
+import com.fasterxml.jackson.databind.MappingJsonFactory;
+import com.fasterxml.jackson.databind.ObjectMapper;
+
 import java.io.IOException;
-import java.io.StringWriter;
 import java.text.SimpleDateFormat;
 
 /**
- *  JSON serializer.
+ * JSON serializer.
  */
 public class JsonSerializer {
-
-    ObjectMapper mapperIn = new ObjectMapper();
-    ObjectMapper mapperOut = new ObjectMapper();
+    ObjectMapper mapper = new ObjectMapper();
     MappingJsonFactory jsonFactory = new MappingJsonFactory();
 
     /**
      * Constructor
      */
-	public JsonSerializer() {
-		// This outputs a ISO 8601 format like this 2013-05-09T21:11:11.928+0100 .
-		mapperOut.setDateFormat(new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss.SSSZ"));
-		// This makes a more robust deserialization of variations of ISO 8601 formats.
-		mapperIn.configure(WRITE_DATES_AS_TIMESTAMPS, false);
-	}
+    public JsonSerializer() {
+        // This outputs a ISO 8601 format like this 2013-05-09T21:11:11.928+0100 .
+        mapper.setDateFormat(new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss.SSSZ"));
+    }
 
-	/**
-	 * Deserializes to Message list
-	 * 
-	 * @param json
-	 *            JSON string
-	 * @return
-	 * @throws IOException
-	 */
+    /**
+     * Deserializes to Message list
+     *
+     * @param json JSON string
+     * @return
+     * @throws IOException
+     */
     public String deserialize(String json) throws IOException {
-        return mapperIn.readValue(json, String.class);
+        return mapper.readValue(json, String.class);
     }
 
     /**
      * Serializes BBL Message list.
-     * 
+     *
      * @param message BBL Message
      * @return JSON string
      * @throws IOException
      */
     public String serialize(String message) throws IOException {
-        StringWriter sw = new StringWriter();
-        JsonGenerator jsonGenerator = jsonFactory.createJsonGenerator(sw);
-        mapperOut.writeValue(jsonGenerator, message);
-        sw.close();
-        return sw.getBuffer().toString();
+        return mapper.writeValueAsString(message);
     }
 
     /**
      * Marshals {@link FileNode} massage.
-     * 
+     *
      * @param message to be encoded.
-     * 
      * @return marshaled message.
-     * 
      * @throws IOException
      */
     public String serialize(FileNode message) throws IOException {
-        StringWriter sw = new StringWriter();
-        JsonGenerator jsonGenerator = jsonFactory.createJsonGenerator(sw);
-        mapperOut.writeValue(jsonGenerator, message);
-        sw.close();
-        return sw.getBuffer().toString();
+        return mapper.writeValueAsString(message);
     }
-
 }

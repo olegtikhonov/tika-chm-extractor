@@ -14,14 +14,15 @@
 
 package org.ocrix.chm.server;
 
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.servlet.ServletContextHandler;
 import org.eclipse.jetty.servlet.ServletHolder;
 
-public class ChmServer {
 
-	private static final Logger LOG = Logger.getLogger(ChmServer.class);
+public class ChmServer {
+	private static final Logger LOG = LogManager.getLogger(ChmServer.class);
 	
 	/**
 	 * @param args

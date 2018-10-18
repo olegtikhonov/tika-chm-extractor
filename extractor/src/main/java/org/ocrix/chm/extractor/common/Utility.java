@@ -14,41 +14,38 @@
 
 package org.ocrix.chm.extractor.common;
 
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.OutputStream;
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 import javax.servlet.http.HttpServletResponse;
-import org.apache.log4j.Logger;
+import java.io.*;
 import static org.ocrix.chm.extractor.common.CommonConstants.JSON;
 
+
 public class Utility {
-	
+    private static final Logger LOG = LogManager.getLogger(Utility.class);
+
+
 	private Utility() {}
-	
-	private static final Logger LOG = Logger.getLogger(Utility.class);
-	
+
 	public static void saveFile(String pathToSave, String fileName, byte[] json) {
 		File file = new File(pathToSave + File.separator + fileName + JSON.to());
 		FileOutputStream bw;
-		try {
-			bw = new FileOutputStream(file);
-			bw.write(json);
-			bw.close();
-		} catch (FileNotFoundException e) {
-			LOG.error(e);
-		} catch (IOException e) {
-			LOG.error(e);
-		}
+		writeToFile(file, json);
 	}
 	
 	public static void saveMetadata(String pathToSave, String fileName, String metadata) {
 		File file = new File(pathToSave + File.separator + fileName + JSON.to());
 		FileOutputStream bw;
+		writeToFile(file, metadata.getBytes());
+	}
+
+	public static void writeToFile(File file, byte[] bytes) {
+		FileOutputStream bw;
 		try {
 			bw = new FileOutputStream(file);
-			bw.write(metadata.getBytes());
+			bw.write(bytes);
 			bw.close();
 		} catch (FileNotFoundException e) {
 			LOG.error(e);
@@ -56,12 +53,14 @@ public class Utility {
 			LOG.error(e);
 		}
 	}
-	
+
 	public static void writeMessage(HttpServletResponse resp, String msg) {
 		try {
 			OutputStream out = resp.getOutputStream();
-			out.write(msg.getBytes());
-			out.close();
+			if(out != null && resp != null && msg != null) {
+				out.write(msg.getBytes());
+				out.close();
+			}
 		} catch (Exception e) {
 			LOG.error(e);
 		}

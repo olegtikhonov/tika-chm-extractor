@@ -14,21 +14,20 @@
 
 package org.ocrix.chm.server.command;
 
-import java.io.File;
-import java.net.URLDecoder;
-import java.util.concurrent.locks.ReentrantLock;
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.ocrix.chm.extractor.ChmSevenZipExtractor;
-
-import static org.ocrix.chm.extractor.common.CommonConstants.CHM;
-import static org.ocrix.chm.extractor.common.CommonConstants.DEFAULT_CHARSET;
-
 import org.ocrix.chm.extractor.common.FileNode;
 import org.ocrix.chm.extractor.common.JsonSerializer;
 import org.ocrix.chm.extractor.common.MimeType;
 import org.ocrix.chm.extractor.common.Utility;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import java.io.File;
+import java.net.URLDecoder;
+import java.util.concurrent.locks.ReentrantLock;
+import static org.ocrix.chm.extractor.common.CommonConstants.CHM;
+import static org.ocrix.chm.extractor.common.CommonConstants.DEFAULT_CHARSET;
 
 
 /**
@@ -36,7 +35,7 @@ import org.ocrix.chm.extractor.common.Utility;
  */
 public enum DirectoryFileExtractor implements Command{
     INSTANCE;
-    private static final Logger LOG = Logger.getLogger(DirectoryFileExtractor.class);
+    private static final Logger LOG = LogManager.getLogger(DirectoryFileExtractor.class);
     
 	private volatile HttpServletRequest request;
 	private volatile HttpServletResponse response;

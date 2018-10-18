@@ -27,12 +27,13 @@ import org.ocrix.chm.extractor.common.FileNode;
 
 /**
  * Tests {@link ChmSevenZipExtractor} functionality.
+ * /auto/dev_users/otikhon/Downloads/myrepo/tika-chm-extractor/extractor/src/test/resources/Open_Mobile_Client_Help.chm
  */
 public class TestChmSevenZipExtractor {
 	
 	private ChmSevenZipExtractor chmExtractor;
-	private static final String FILE = "src/test/resource/Open_Mobile_Client_Help.chm";
-	private static final String FILE_TXT = "src/test/resource/README.txt";
+	private static final String FILE = "src/test/resources/Open_Mobile_Client_Help.chm";
+	private static final String FILE_TXT = "src/test/resources/README.txt";
 	private  static final String VP_PATH = "extracted_files";
 
 	@Before
