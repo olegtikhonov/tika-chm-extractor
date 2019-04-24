@@ -1,28 +1,33 @@
-tika-chm-extractor
+#tika-chm-extractor
 ==================
 
 Uses 7zipjbinding library which is the LGPL license. The rest of the code is Apache License, Version 2.0. 
 
-What is it all about?
+##What is it all about?
 
 Tika-chm-extractor is an alternative LGPL option extracting context & metadata from compressed html files. “Original” Tika’s chm extractor has some known problems because MS guys could not provide suitable spec of chm files. The algorithm of extracting these files was hacked by error prone approach. However completely compatible with the Apache Software License version 2.0.
 
-For whom is it intended?
+##For whom is it intended?
 
 For anyone who does not care about licensing compliances however cares about more precise extraction.
 
-How to run it?
+##How to run it?
 
 Before cloning git, please download sevenZipJbining. Preferably for all platforms. Unzip it. There are two jars which you have to install to your local maven directory, like this:
-
+```
 <code>
 cd /sevenzipjbinding_extracted_folder</code>
 <code>
+```
+```
 mvn install:install-file -Dfile=sevenzipjbinding-AllPlatforms.jar -DgroupId=net.sf.sevenzipjbinding -DartifactId=allplatforms -Dpackaging=jar -Dversion=1.0
 </code>
+```
+```
 <code>
 mvn install:install-file -Dfile=sevenzipjbinding.jar -DgroupId=net.sf.sevenzipjbinding -DartifactId=sevenzipjbinding -Dpackaging=jar -Dversion=1.0
 </code>
+```
 Next,
 <code>
 git clone https://github.com/olegtikhonov/tika-chm-extractor.git
