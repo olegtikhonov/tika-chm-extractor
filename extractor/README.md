@@ -23,3 +23,8 @@ curl.exe -G http://localhost:8080/metadata/file/C:%5CUsers%5Cotikhono%5CDesktop%
 ```
 mvn clean install dependency:copy-dependencies exec:java -Dexec.mainClass="org.ocrix.chm.server.ChmServer"
 ```
+
+### How to build using verify
+```
+mvn clean install verify -Ddownloader.quick.query.timestamp=false
+```
