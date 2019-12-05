@@ -56,4 +56,24 @@ curl.exe -G http://localhost:8080/metadata/file/C:%5CUsers%5Cotikhono%5CDesktop%
 ```
 Drop me a note and let me know what else you’d like to see and what you end up doing with this. I welcome the start of a good discussion.
 
+# Here is a section related to official Apache Tiks
+I've create Dockerfile from which anyone can create its own Docker image.
+Here are the steps:
+* git clone https://github.com/apache/tika.git
+* git checkout <what_ever_branch_you_want>
+* cd tika
+* mvn clean install
+* copy Dockerfile from here
+* Say, you've chosen Tika 1.23 branch
+```
+docker build --build-arg tika_version=1.23 -t tika:1.23 .
+```
+* Suppose building of Tika image suceeded
+```
+docker run --name tika.server -d -p 1234:5656  tika:1.23
+```
+* To test how it works ...
+```
+curl -s 127.0.0.1:1234 | grep href
+```
 
